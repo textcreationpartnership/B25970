@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life and death of that matchless mirrour of magnanimity, and heroick vertues Henrietta Maria de Bourbon Queen to that blessed King and martyr Charles the First: and mother to that most magnificent monarch Charles the Second, King of England, Scotland, France, and Ireland, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 113KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25970</idno><idno type="EEBO-CITATION">99826884</idno>
+  <idno type="VID">207575</idno>
+  <idno type="EEBO-PROQUEST">2248498426</idno>
+  
+            <idno type="STC">Wing L2012</idno>
+            <idno type="STC">ESTC R214818</idno>
+            <idno type="PROQUEST">99826884</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826884e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207575)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1912:22, 1992:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life and death of that matchless mirrour of magnanimity, and heroick vertues Henrietta Maria de Bourbon Queen to that blessed King and martyr Charles the First: and mother to that most magnificent monarch Charles the Second, King of England, Scotland, France, and Ireland, &amp;c.</title>
+               </titleStmt>
+               <extent>[8], 108, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam. Speed, near the Inner Temple Gate in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: 'The life and death of H. Maria Q. of England'.</note>
+                  <note>Includes marginal notes and three final advertisement leaves.</note>
+                  <note>Incorrectly identified as Wing (2nd ed.) L1994A on UMI microfilm "Early English books, 1641-1700" reel 1992.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Early works to 1800.</term>
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Biography --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Queens --  Biography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207575:1"/>
+            <p>THE LIFE and DEATH OF That matchless Mirrour Of MAGNANIMITY, And HEROICK VERTUES HENRIETTA MARIA <hi>De</hi> BOURBON, Queen to that blessed King and Martyr <hi>Charles</hi> the First: And Mother to that most magnificent Monarch <hi>Charles</hi> the Second, King of <hi>England, Scotland, France,</hi> and <hi>Ireland, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Speed,</hi> near the Inner <hi>Temple</hi> Gate in <hi>Fleet-street.</hi> 1669.</p>
+            <pb facs="tcp:207575:2"/>
+            <pb facs="tcp:207575:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:207575:3"/>
+            <pb facs="tcp:207575:3"/>
+            <p>TO The most High and Mighty MONARCH, The Grand Exemplar of Mag<g ref="char:EOLhyphen"/>nanimity, Majesty, and Mercy, Charles II: KING Of <hi>England, Scotland, France,</hi> and <hi>Ireland;</hi> With all their Appenages, as well by Sea as Land, <hi>&amp;c.</hi> This Historical Nar<g ref="char:EOLhyphen"/>ration of his Dear and Matchless MOTHER Is Most humbly Dedicated and Devoted.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207575:4"/>
+            <pb facs="tcp:207575:4"/>
+            <head>To the Candid, and Religi<g ref="char:EOLhyphen"/>ous Reader.</head>
+            <p>YOu have here in a rough draught presented to you, a brief Narration of the Life of a most excellent Princess, the Lady <hi>Henrietta Maria de Bourbon,</hi> late Queen, and Queen Mother of <hi>England,</hi> a Princess of so much Piety, Vertue, Humility, and Conjugal affection towards her Husband, and our King, <hi>Charles</hi> the First of Glorious Memory, that as malice cannot stain her re<g ref="char:EOLhyphen"/>putation, so on the other side, it is beyond the reach of Art to flatter her, many have been the infamous Libels wherewith rebellious and self-ended people have endeavo<g ref="char:EOLhyphen"/>red to belie her, but those scandals wherewith in the late Wars we
+<pb facs="tcp:207575:5"/> did abound, were invented meer<g ref="char:EOLhyphen"/>ly for the better carrying on of the work of Rebellion. Neither did those Authors spare our then Gra<g ref="char:EOLhyphen"/>tious Sovereign, a Prince of whom we were not worthy: Nor his present Majesty, or any that they thought did retain any Principles of Loyalty or Religion: where<g ref="char:EOLhyphen"/>fore laying aside all malice, envy, guile, hypocrisies, clamour, and evil-speaking, see her in her right Effigies, as she is deciphered by his late most excellent Majesty, and by other persons of Honour, good Credit and Authority.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:207575:5"/>
+            <head>ON Her Majesties EFFIGIES.</head>
+            <l>AS in some <hi>Mirrour</hi> there you clearly see</l>
+            <l>The face of M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ss m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt with Majesty;</l>
+            <l>The <hi>Beauty</hi> of whose vertues may incite</l>
+            <l>The World to <hi>Imitation,</hi> and <hi>Delight:</hi>
+            </l>
+            <l>You Noble Ladies who her Vertues knew</l>
+            <l>Come mourn with me, she was your <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrour</hi> too▪</l>
+            <l>Her let us imitate, and b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame her Fate</l>
+            <l>For not allowing L<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a longer date:</l>
+            <l>She knew not that which Complement we cal<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld flatter none, but Her self least of all.</l>
+            <l>So true, so faithful, and so just a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>Nothing can live beyond her Memory.</l>
+            <pb facs="tcp:207575:6"/>
+            <l>What shall we say, since silent now is She,</l>
+            <l>Who when she spake all things would silent be:</l>
+            <l>Great, Glorious Princess, may your <hi>Vertues</hi> shew,</l>
+            <l>As bright in Sto y, as they did in you.</l>
+            <l>Who to express, as thou wert free from ill,</l>
+            <l>Must be by Ink dropt from an <hi>Angels</hi> Quill:</l>
+            <l>And I my self a Catholick will be,</l>
+            <l>So far at least, Dear Saint, to pray to thee.</l>
+         </div>
+         <div type="license">
+            <p>Lice<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sed according to Order.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:207575:6"/>
+            <head>THE LIFE and DEATH OF That matchless mirrour of Magnanimity and Heroique Vertues, HENRIETTA MARIA DE BOURBON, Daughter of <hi>Henry</hi> the Great, King of <hi>France;</hi> Queen to that Blessed King and Martyr <hi>CHARLES</hi> the First, and Mo<g ref="char:EOLhyphen"/>ther to our most Magnificent Monarch <hi>CHARLES</hi> the Second, King of <hi>England, Scotland, France,</hi> and <hi>Ireland.</hi>
+            </head>
+            <p>HER Majesty <hi>Henrietta Maria de Bourbon,</hi> Daughter of King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the fourth of <hi>France,</hi>
+               <pb n="2" facs="tcp:207575:7"/> and Q. <hi>Maria de Medices</hi> of <hi>Flo<g ref="char:EOLhyphen"/>rence,</hi> youngest Sister of King <hi>Lewis</hi> the 13<seg rend="sup">th.</seg> of <hi>France,</hi> and Aunt to K. <hi>Lewis</hi> the 14<seg rend="sup">th.</seg> Wife to King <hi>Charles</hi> the I. of <hi>England,</hi> and Mother to King <hi>Charles</hi> the Second; Sister-in-law to <hi>Philip</hi> the Fourth of <hi>Spain,</hi> who married one of her Sisters,<note place="margin">Her de<g ref="char:EOLhyphen"/>scent, Al<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce and Birth, 1609.</note> and to <hi>Amadee Victorio</hi> the tenth Duke of <hi>Savoy,</hi> who married the other; Grand<g ref="char:EOLhyphen"/>mother to the Prince of <hi>Aurange,</hi> was born on the 25 of <hi>November</hi> in the year of our Lord 1609. and lived to be Daughter, Sister, Wise, Aunt, and Mother to several great and famous Princes.</p>
+            <p>
+               <note place="margin">Some re<g ref="char:EOLhyphen"/>marks of her infan<g ref="char:EOLhyphen"/>cy and youth, 1610.</note>The 13<seg rend="sup">th</seg> of <hi>May</hi> 1610. She and the rest of her Brothers and Sisters were present at the solemn Coronation of her Mother at St. <hi>Dennis,</hi> and the next day with her Brother the Duke of <hi>Anjou,</hi> in whom King <hi>Henry</hi> the Fourth took great delight, was brought to his
+<pb n="3" facs="tcp:207575:7"/> Majesty (who was very melan<g ref="char:EOLhyphen"/>choly in the morning, upon some presages and tokens of his death, that day, which happened in the afternoon) to divert his thoughts.</p>
+            <p>On the 25 of <hi>June</hi> following, she was carried with her Brother to perform the Ceremony of ca<g ref="char:EOLhyphen"/>sting Holy-water on the Corps of her dead Father, who was buried the 28 following. On the 17 of <hi>October</hi> the same year, she was car<g ref="char:EOLhyphen"/>ried to the Coronation of her Brother in the Abbey of St. <hi>Den<g ref="char:EOLhyphen"/>nis</hi> by the Princess of <hi>Conde,</hi> and his receiving of the Order of the Holy Ghost, the next day after which Ceremonies she and others of the Children were removed from <hi>Paris</hi> by reason of the facti<g ref="char:EOLhyphen"/>ons and disturbances there be<g ref="char:EOLhyphen"/>tween Monfr. <hi>de Belgard,</hi> and Marquess <hi>de Ancre;</hi> the Prince of <hi>Conde,</hi> and the Earl of <hi>Soissons;</hi> and
+<pb n="4" facs="tcp:207575:8"/> the said Earl, and the Duke of <hi>Guise.</hi>
+            </p>
+            <p>The 17 of <hi>November</hi> 1611, <milestone type="tcpmilestone" unit="unspecified" n="1611"/> the Court was by the Queen Regent invited to see the Infants of <hi>France,</hi> of whom one much lamen<g ref="char:EOLhyphen"/>ted, viz. the Duke of <hi>Orleans</hi> then died, at the age of four years and six months, which bred a great suspition of Monsieur <hi>Le Maistre,</hi> first Physitian to the said In<g ref="char:EOLhyphen"/>fants.</p>
+            <p>On the fourth of <hi>March</hi> 1612, <milestone type="tcpmilestone" unit="unspecified" n="1612"/> her Majesty was carried to the so<g ref="char:EOLhyphen"/>lemn Nuptials of her Sister <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> of <hi>Bourbon</hi> with the King of <hi>Spain,</hi> kept at the Palace Royal, and the 22 of <hi>August</hi> following to the Marriage of her Brother King <hi>Lewis</hi> the 13<seg rend="sup">th</seg> with the In<g ref="char:EOLhyphen"/>fanta of <hi>Spain;</hi> and on the 21 of <hi>November</hi> 1615 <milestone type="tcpmilestone" unit="unspecified" n="1615"/> to meet her Si<g ref="char:EOLhyphen"/>ster-in-law at <hi>Bourdeux;</hi> accom<g ref="char:EOLhyphen"/>panying her Mother at her solemn entry into <hi>Paris</hi> upon the Edict of
+<pb n="5" facs="tcp:207575:8"/> Peace, between her and the Prin<g ref="char:EOLhyphen"/>ces of the Blood, <hi>May</hi> 11, 1616. <milestone type="tcpmilestone" unit="unspecified" n="1616"/> and thence attended her again to <hi>Blois,</hi> after the death of her Fa<g ref="char:EOLhyphen"/>vourite the Marshal <hi>de Ancre;</hi> a<g ref="char:EOLhyphen"/>bout which time there was a ru<g ref="char:EOLhyphen"/>mour, as if the Lord <hi>Hays</hi> after<g ref="char:EOLhyphen"/>ward Earl of <hi>Carlisle</hi>'s Embassy of Congratulation for the King's her Brothers Marriage with the Daughter of <hi>Spain,</hi> made some overtures of Alliance between her and the Prince of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Feb.</hi> 10, 1619. <milestone type="tcpmilestone" unit="unspecified" n="1619"/> Her Majesty ap<g ref="char:EOLhyphen"/>peared at the Marriage of her Si<g ref="char:EOLhyphen"/>ster <hi>Christieene</hi> with the Prince of <hi>Savoy,</hi> to whom King <hi>Henry</hi> IV. designed her, as was then obser<g ref="char:EOLhyphen"/>ved, the first day she was born, <hi>viz. Feb.</hi> 10. 1606. after this Marriage, her Majesty durst not follow her Mother to the displea<g ref="char:EOLhyphen"/>sure of her Brother, left she might hinder her own; until <hi>June</hi> 21, 1620. when the Queen-Mother
+<pb n="6" facs="tcp:207575:9"/> and her Son were reconciled;<note place="margin">The seve<g ref="char:EOLhyphen"/>ral preten<g ref="char:EOLhyphen"/>ces made to her by several Suitors.</note> a<g ref="char:EOLhyphen"/>bout which time Count <hi>Soissons</hi> (second Prince of the Blood, af<g ref="char:EOLhyphen"/>ter eminent service done before <hi>Rochel</hi>) pretended to Madam, whose respects for her were not thought fit to be discouraged till a seasonable condition offered it self, and that was this, in 1622 <milestone type="tcpmilestone" unit="unspecified" n="1622"/> King <hi>Charles</hi> the First when Prince adventured into <hi>Spain,</hi> and passed by the Court of <hi>France,</hi> where <hi>in<g ref="char:EOLhyphen"/>cognito</hi> he was present at a Ball (wherein Madam danced,<note place="margin">The first occasion of the King and Queens mutual af<g ref="char:EOLhyphen"/>fection.</note> as she could do rarely well) to his great satisfaction; insomuch that he took in by the eye, that love which he preserved inviolable for her to his death; and she likewise entertain<g ref="char:EOLhyphen"/>ed a love for him by the ear: for when she was told that he passed through <hi>Paris,</hi> it was then dis<g ref="char:EOLhyphen"/>coursed that she should say, <hi>That, if the Prince of</hi> Wales <hi>went into</hi> Spain <hi>for a Wife, he might have had
+<pb n="7" facs="tcp:207575:9"/> one neerer hand, and saved himself a great part of the labour:</hi> which news coming to the aforesaid Counts ears, disordered him much, till the Cardinal <hi>Rochful<g ref="char:EOLhyphen"/>cout,</hi> one of the then Cabinet Councel of <hi>France,</hi> dealt freely with his Mother, telling her, that if she or her Son thought the King would give him his Sister in Mar<g ref="char:EOLhyphen"/>riage, they would (as he concei<g ref="char:EOLhyphen"/>ved) be much mistaken; the King being minded to bestow his Sister the best way for her Honour, and the Crowns advantage, professing though he honoured the Count, it was his advice to his Majesty so to do.</p>
+            <p>Upon the breach of the Match with <hi>Spain,</hi> the Lord <hi>Kensington,</hi> afterwards Earl of <hi>Holland,</hi> joynt Embassador with the Earl of <hi>Car<g ref="char:EOLhyphen"/>lisle</hi> no sooner moved the Alliance with <hi>Fr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce,</hi> but the Queen Mo<g ref="char:EOLhyphen"/>ther declared, that she had enter<g ref="char:EOLhyphen"/>tained
+<pb n="8" facs="tcp:207575:10"/> a great while inclinations for the Marriage of her Daughter, whom she loved intirely, with the Prince; and indeed the whole Court was very fond of it,<note place="margin">The re<g ref="char:EOLhyphen"/>sentment of the <hi>Count</hi> of <hi>Soissons.</hi>
+               </note> but the aforesaid Count observing the magnificent entertainment of the Lords <hi>Carlisle</hi> and <hi>Kensington,</hi> stor<g ref="char:EOLhyphen"/>med, and received the Lord <hi>Ken<g ref="char:EOLhyphen"/>singtons</hi> salute scornfully, by turn<g ref="char:EOLhyphen"/>ing aside his head, and professed when he was put in mind of his in<g ref="char:EOLhyphen"/>civility to the Embassador of so great a Prince by his friend <hi>Gran<g ref="char:EOLhyphen"/>demont,</hi> that his Negotiation went so near his heart, that were it not in the behalf of so great a Prince, he would cut his throat: Nay, said he farther, were any Prince of <hi>Sa<g ref="char:EOLhyphen"/>voy, Mantua,</hi> or <hi>Germany</hi> here in person, to sollicite for themselves in like nature, <hi>I would hazard my life in the cause.</hi>
+            </p>
+            <div type="part">
+               <pb n="9" facs="tcp:207575:10"/>
+               <head>The Earl of <hi>Hollands</hi> Character of the Lady <hi>Henrietta Maria</hi> de <hi>Bourbon.</hi>
+                  <note place="margin">The cha<g ref="char:EOLhyphen"/>racter of the Queen.</note>
+               </head>
+               <p>Indeed he was not much to be blamed for his passion, since her Majesty was reckoned then the loveliest Creature in <hi>France,</hi> and the sweetest thing in Nature, as the Lord <hi>Kensington</hi> expresseth her in his Letter to the Prince,<note place="margin">The re<g ref="char:EOLhyphen"/>ception of Kings and Princes Letters. 1624.</note>
+                  <hi>Febr.</hi> 26. 1624. for whom she declared as high a value privately as her mother had done publikely, pro<g ref="char:EOLhyphen"/>curing a view of his Highness Pi<g ref="char:EOLhyphen"/>cture, by the Lady (once her Ser<g ref="char:EOLhyphen"/>vant) where the Lords Embassa<g ref="char:EOLhyphen"/>dors lay, and perusing it a whole hour together in her Closet; and having received a Letter from King <hi>James,</hi> and another from the Prince; after she had asked her Mothers leave, she put the first in her Cabinet, and the second (not
+<pb n="10" facs="tcp:207575:11"/> without some tears of joy) in her bosom; as King <hi>James</hi> obser<g ref="char:EOLhyphen"/>ved to his great satisfaction, say<g ref="char:EOLhyphen"/>ing, that she intimated thereby, that she would trust him, and love his Son, adding farther that he would denounce war against her, for not reading his Letters with<g ref="char:EOLhyphen"/>out her Mothers consent, but he would thank her, for lodging her Sons Letters so well: Nor did his Highness the Prince take less con<g ref="char:EOLhyphen"/>tent in her Picture that was sent him, and the account that was gi<g ref="char:EOLhyphen"/>ven him, of her smart discourse, gallant carriage, sweet nature, and extraordinary accomplishments, there being nothing in her short of her years but her statute; of which the wooing Embassador said, that her Sister the Princess of <hi>Pied<g ref="char:EOLhyphen"/>mont</hi> (who is now grown a tall and goodly Lady) was not taller than she at her age.</p>
+               <p>All things concurred so to this
+<pb n="11" facs="tcp:207575:11"/> Alliance,<note place="margin">Her mar<g ref="char:EOLhyphen"/>riage. 1625.</note> that <hi>May</hi> 11. <hi>S. N.</hi> 1625. the Marriage was celebra<g ref="char:EOLhyphen"/>ted at the Church of <hi>Nostredame</hi> in <hi>Paris,</hi> the Duke of <hi>Chevereux</hi> his Kinsman, of the house of <hi>Guise</hi> being the Princes Proxy, and her Majesty setting forward from <hi>Paris June</hi> 2, attended by the whole French Court, and the Duke of <hi>Buckingham</hi> with others of the greatest Quality, Lords,<note place="margin">Her Voy<g ref="char:EOLhyphen"/>age to En<g ref="char:EOLhyphen"/>gland.</note> and Ladies from the English Court (after 14 dayes stay at <hi>A<g ref="char:EOLhyphen"/>miens,</hi> because of her Mothers in<g ref="char:EOLhyphen"/>disposition, who would needs have seen her at the Sea-side, but could not) lands at <hi>Dover</hi> from <hi>Bulloigne, Callice</hi> being infected, <hi>June</hi> 23, <hi>S. N.</hi> after a dark and uncomfortable passage, about se<g ref="char:EOLhyphen"/>ven of the Clock on Sunday night,<note place="margin">The King and Queens first greet<g ref="char:EOLhyphen"/>ing.</note> when the King her Husband recei<g ref="char:EOLhyphen"/>ved her on the top of the Stairs; she striving on her knees to kiss his hands, and he preventing her with
+<pb n="12" facs="tcp:207575:12"/> civilities on her Lips. Being reti<g ref="char:EOLhyphen"/>red, she wept, and he kissed off her tears, professing he would do so, till she had done, and perswa<g ref="char:EOLhyphen"/>ding her that she was not fallen into the hands of strangers, as she apprehended tremblingly, but in<g ref="char:EOLhyphen"/>to the wise disposal of God, who would have her leave her Kindred, and cleave to her Spouse, he pro<g ref="char:EOLhyphen"/>fessing to be no longer Master of himself, than whilest he was a Ser<g ref="char:EOLhyphen"/>vant to her.</p>
+               <p>At <hi>Canterbury, June</hi> 14/24 1625, they were personally married: it is not to be forgotten that so great was the honour done to the En<g ref="char:EOLhyphen"/>glish in <hi>France,</hi> that the Duke of <hi>Buckingham's</hi> Mother, took place of the Dutchess of <hi>Chevereux,</hi> and was visited by <hi>Monsieur;</hi> whence Sir <hi>Toby Matthew</hi> merrily collect<g ref="char:EOLhyphen"/>ed, That he should not be discou<g ref="char:EOLhyphen"/>raged from bearing devotion to the Blessed Virgin, when he saw
+<pb n="13" facs="tcp:207575:12"/> that women sick of Love towards the Son, are put by a Law of Na<g ref="char:EOLhyphen"/>ture into pain, till they revenge themselves of the Mother.</p>
+               <p>From <hi>Canterbury</hi> they rid through lanes of people, the whole Kingdom flocking to wait on them at their arrival, and all the Nobility and Gentry attending them to <hi>Gravesend,</hi> whence in a Barge of State, waited on by many more, the whole Fleet lying in order on both sides the River to salute them, they came to <hi>London,</hi>
+                  <note place="margin">The Queen at London.</note> landing at <hi>Somerset-house, June</hi> 16, and appeared on their Thrones to the then Parliament, at the first o<g ref="char:EOLhyphen"/>pening of it, to the Kings great Ho<g ref="char:EOLhyphen"/>nour in the eye of all Foreiners.</p>
+               <p>From <hi>London</hi> then visited with the Sickness,<note place="margin">The King and Queen meet the Parlia<g ref="char:EOLhyphen"/>ment at <hi>Oxford.</hi>
+                  </note> their Majesties retire to <hi>Hampton Court,</hi> from whence they took a progress to several parts of the Nation, till they met the Parliament at <hi>Oxford,</hi> whence
+<pb n="14" facs="tcp:207575:13"/> they returned the next year upon the abating of the Sickness to <hi>London,</hi> she seeing her Husbands Coronation, and in that her own, <hi>Febr.</hi> 2. 1625. nothing all this while appearing in her Majesties converse, but openness and free<g ref="char:EOLhyphen"/>dom, which if some were offend<g ref="char:EOLhyphen"/>ed at, as not suiting with the Ge<g ref="char:EOLhyphen"/>nius of our Nation, others saw nothing in it, but was agreeable to her high Birth and State, her Dis<g ref="char:EOLhyphen"/>course being modestly witty, and her recreations innocent.</p>
+               <p>
+                  <note place="margin">The Queens French Servants dismissed.</note>
+                  <hi>July</hi> the first 1626, the King in person attended by the Duke of <hi>Buckingham,</hi> the Earls of <hi>Holland,</hi> and <hi>Carlisle,</hi> came to <hi>Somerset-house,</hi> where the Queens French Retinue were ordered to await, and bespeaks them thus:
+<q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="speech">
+                              <opener>
+                                 <salute>Gentlemen and Ladies,</salute>
+                              </opener>
+                              <p>
+                                 <note place="margin">The Kings Speech to them.</note>
+                                 <hi>I</hi> Am driven to that necessity, as that I am personally come to ac<g ref="char:EOLhyphen"/>quaint
+<pb n="15" facs="tcp:207575:13"/> you that I very earnestly de<g ref="char:EOLhyphen"/>sire your return into <hi>France;</hi> True it is, the deportment of some amongst you hath been very inoffensive to me, but others again have so dallied with my patience, and so highly af<g ref="char:EOLhyphen"/>fronted me, as I cannot, I will not longer endure it.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <p>Hereunto the Bishop of <hi>Menes</hi> answered:<note place="margin">Their re<g ref="char:EOLhyphen"/>ply.</note>
+               </p>
+               <p>Sir, If this accrimination be le<g ref="char:EOLhyphen"/>velled against me, let me, I be<g ref="char:EOLhyphen"/>seech you, know my fault, while I am here to make my defence.</p>
+               <p>And Madam St. <hi>George</hi> said:</p>
+               <p>Sir, I make no question but the Queen will give me a fair testi<g ref="char:EOLhyphen"/>monial to your Majesty.</p>
+               <p>The King replied, I name none, commanding peremptorily their speedy return into <hi>France,</hi> and dis<g ref="char:EOLhyphen"/>missing them with their Wages and Gratuities, to the value of 22800 <hi>lib.</hi> and not as the French
+<pb n="16" facs="tcp:207575:14"/>
+                  <hi>Mercury,</hi> and <hi>du Chesne</hi> suggested, <hi>Cashiered without their Wages.</hi>
+               </p>
+               <p>
+                  <note place="margin">Their faults.</note>Several occasions they had gi<g ref="char:EOLhyphen"/>ven the King, but the chief that wrought his displeasure were these: The Ecclesiastiques fault was the imposing of several un<g ref="char:EOLhyphen"/>handsome penances on her Maje<g ref="char:EOLhyphen"/>sty, as her going barefoot to <hi>Ty<g ref="char:EOLhyphen"/>burn,</hi> to pray for those of her own Religion that had been executed there for Treason: an action (of which his Majesty said) it could have no greater invective than the Relation.</p>
+               <p>The Bishop of <hi>Menes</hi> likewise contested with the Earl of <hi>Holland</hi> for the Stewardship of her Maje<g ref="char:EOLhyphen"/>sties Dowry, confronting the Earls Grant from the King with another from the Queen.</p>
+               <p>And Madam St. <hi>George</hi> insinua<g ref="char:EOLhyphen"/>ted to the Queen some things that seemed to design to alienate the Queens affection from the King,
+<pb n="17" facs="tcp:207575:14"/> who on some occasions had the confidence to contradict the King, and was in a fair probability of being sooner believed as well as heard. Taking it ill that the King would not suffer her to perch a<g ref="char:EOLhyphen"/>bove all the English Ladies, and that he put her back from his Coach to which she used to in<g ref="char:EOLhyphen"/>trude, when the King and Queen intended to be most private: this action the King effectually excu<g ref="char:EOLhyphen"/>sed to the Queen, who at first was doubtful whether her Attendants were set to watch her as a priso<g ref="char:EOLhyphen"/>ner, or wait on her as a Princess, but when once convinced, she proved ever after a very loving consort, shewing that former di<g ref="char:EOLhyphen"/>stastes proceeded not from her own inclination, but ill advice. Sir <hi>Dudley Carleton</hi> being sent to give an account of these Affairs to the French King, who demanded their restitution, with the severe threats
+<pb n="18" facs="tcp:207575:15"/> of a War; but was answered, that this discharge of the Queens French Attendants, should not seem strange to him, who had lately in the same manner dis<g ref="char:EOLhyphen"/>missed the Spanish Servants of his own.</p>
+               <p>Freedom from the influence of malitious Spirits, together with Letters from her Mother to per<g ref="char:EOLhyphen"/>swade her to follow her Husbands Councel (matters of Religion on<g ref="char:EOLhyphen"/>ly excepted) brought her to her own sweet temper, reverencing her husbands person, not his for<g ref="char:EOLhyphen"/>tune; whereof she partaked of nothing but the joy when it was at the highest, and sharing in all the crosses of it when at the lowest.</p>
+               <p>
+                  <hi>Wednesday, May</hi> 13. 1629. her Majesty surprized with some fright,<note place="margin">Her first Son. 1629.</note> was delivered of a Son, be<g ref="char:EOLhyphen"/>fore her time, which the King (to prevent others) had Christened by Dr. <hi>Web.</hi> then Chaplain in at<g ref="char:EOLhyphen"/>tendance;
+<pb n="19" facs="tcp:207575:15"/> and dying an hour af<g ref="char:EOLhyphen"/>ter, was buried by Dr. <hi>Laud</hi> at <hi>Westminster.</hi>
+               </p>
+               <p>On the safe Birth and hasty death of which Child, one of <hi>Christ-Church</hi> in <hi>Oxford</hi> wrote these fol<g ref="char:EOLhyphen"/>lowing Lines.</p>
+               <q>
+                  <l>Quod Lucina tuos semel est frustra<g ref="char:EOLhyphen"/>ta labores</l>
+                  <l>Nec fortunantes praebuit illa ma<g ref="char:EOLhyphen"/>nus.</l>
+                  <l>Ignoscas Regina; uno molimine ven<g ref="char:EOLhyphen"/>tris</l>
+                  <l>Non potuit Princeps ad tria reg<g ref="char:EOLhyphen"/>na dari.</l>
+               </q>
+               <p>These her throws were no soo<g ref="char:EOLhyphen"/>ner over,<note place="margin">Several scandalous Pamphlets published against the Queen.</note> but she endured those of another nature, being much troubled at the Pamphlets of some that reviled her as a Daughter of <hi>Heth,</hi> a <hi>Canaanite,</hi> and an Idola<g ref="char:EOLhyphen"/>ter; and the muttering of others, who said, they could discern no
+<pb n="20" facs="tcp:207575:16"/> cause of joy, in her being with Child, God having better provi<g ref="char:EOLhyphen"/>ded for us, in the hopeful Proge<g ref="char:EOLhyphen"/>ny of the Queen of <hi>Bohemia.</hi>
+               </p>
+               <p>
+                  <note place="margin">Her second Son. 1630.</note>On the 29<seg rend="sup">th</seg> of <hi>May</hi> 1630. she was brought to bed at St. <hi>James</hi> of her second Son, our most Sovereign Lord, K. <hi>Charles</hi> II. at whose Birth there shined a Star at Noon-day, when the King was riding to St. <hi>Pauls,</hi> to give thanks for the Queens safe delivery, whereup<g ref="char:EOLhyphen"/>on these Verses were presented.</p>
+               <q>
+                  <l>Rex ubi paulinas accessit gratus ad aras</l>
+                  <l>Immicuit medio lucida stella polo,</l>
+                  <l>Dic divina mihi tractans aenigmata coeli</l>
+                  <l>Haec oriens nobis quid sibi stella velit?</l>
+                  <l>Magnus in occiduo Princeps modo nascitur orbe</l>
+                  <l>Moxque sub eclipsi regna Orien<g ref="char:EOLhyphen"/>tis erunt.</l>
+               </q>
+               <pb n="21" facs="tcp:207575:16"/>
+               <p>Rendred into English, thus:
+<q>
+                     <l>When to <hi>Pauls</hi> Cross the grateful King drew neer,</l>
+                     <l>A shining Star did in the Heavens appear:</l>
+                     <l>Thou that consultest with Divine Mysteries,</l>
+                     <l>Tell me what this bright Comet signifies,</l>
+                     <l>Now is there born a valiant Prince i'th West,</l>
+                     <l>That shall eclipse the Kingdoms of the East.</l>
+                  </q>
+               </p>
+               <p>Our present Sovereign King <hi>Charles</hi> was Christened at St. <hi>James</hi>'s by Bishop <hi>Laud,</hi>
+                  <note place="margin">King Charles the second Christe<g ref="char:EOLhyphen"/>ned.</note>
+                  <hi>June</hi> 27. the King of <hi>France,</hi> and the Prince Elector Palatine (represented by the Duke of <hi>Lenox,</hi> and Marquiss <hi>Hamilton</hi>) being Godfathers, and the Queen-Mother of <hi>France</hi> (re<g ref="char:EOLhyphen"/>presented by the Dutchess of <hi>Rich<g ref="char:EOLhyphen"/>mond</hi>)
+<pb n="22" facs="tcp:207575:17"/> Godmother, his Gover<g ref="char:EOLhyphen"/>ness was <hi>Mary</hi> Countess of <hi>Dorset,</hi> wife to <hi>Earl</hi> of <hi>Dorset.</hi>
+               </p>
+               <p>The fourth of <hi>November</hi> 1631. was born her Eldest Daughter <hi>Mary,</hi>
+                  <note place="margin">The Queens first Daughter, born. 1631</note> late Princess of <hi>Aurange,</hi> (Mother to the present Prince of <hi>Aurange</hi>) who died of the small Pox, <hi>December</hi> 24. 1660. about which time a good correspondence was setled between the Queen and Dr. <hi>Laud,</hi> afterwards Arch-Bishop of <hi>Canterbury,</hi> who had promise of free access to her Ma<g ref="char:EOLhyphen"/>jesty upon all occasions, and her best assistance in all his affairs.</p>
+               <p>
+                  <note place="margin">Her third Son. 1633.</note>The thirteenth of <hi>October,</hi> 1633. after the Kings safe arrival from his Coronation in <hi>Scotland</hi> (whe<g ref="char:EOLhyphen"/>ther she would not go, that Nati<g ref="char:EOLhyphen"/>on being infected with perfidious men, that pretended an honest ani<g ref="char:EOLhyphen"/>mosity, and specious plain-deal<g ref="char:EOLhyphen"/>ing) she was then delivered of her third Son <hi>James</hi> Duke of <hi>York,</hi>
+                  <pb n="23" facs="tcp:207575:17"/> who was Christened <hi>October</hi> 23.<note place="margin">James D<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke of York Christen<g ref="char:EOLhyphen"/>ed. Her second Daughter. 1635.</note>
+               </p>
+               <p>The twenty eighth of <hi>January</hi> 1635. was born her Daughter <hi>E<g ref="char:EOLhyphen"/>lizabeth,</hi> who survived her father, but lived not to see the restaurati<g ref="char:EOLhyphen"/>on of her Brother, dying of grief in <hi>Carisbrook</hi> Castle, (where her Father was imprisoned) <hi>October</hi> 1649. and was buried in the Church of <hi>Newport,</hi> upon the birth of this Princess, besides the Con<g ref="char:EOLhyphen"/>gratulation of both the Universities which were usual at all these Roy<g ref="char:EOLhyphen"/>al Births, the United States of the Low-Countries caress Her Maje<g ref="char:EOLhyphen"/>sty with the Ceremony of an Em<g ref="char:EOLhyphen"/>bassie, and presents of a Massie piece of Amb<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r-greace, two fair, and almost transparent China Ba<g ref="char:EOLhyphen"/>sons; an exquisite Clock of curi<g ref="char:EOLhyphen"/>ous Art, and four admirable pie<g ref="char:EOLhyphen"/>ces, being the Originals of <hi>Tinti<g ref="char:EOLhyphen"/>net,</hi> and <hi>Titian,</hi> those excellent performers in the Art of Paint<g ref="char:EOLhyphen"/>ing.</p>
+               <pb n="24" facs="tcp:207575:18"/>
+               <p>
+                  <note place="margin">Her third Daughter. 1637.</note>
+                  <hi>March</hi> 17. 1637. Her Daugh<g ref="char:EOLhyphen"/>ter <hi>Anne</hi> came into the world, and died in her youth.</p>
+               <p>
+                  <note place="margin">Her fourth Daughter. 1639.</note>
+                  <hi>April</hi> 1639. her Daughter <hi>Ka<g ref="char:EOLhyphen"/>therine,</hi> died as soon she was born.</p>
+               <p>This was the service she did her King and his Government, to bring him each year a prop of Em<g ref="char:EOLhyphen"/>pire; and his people a security of Succession, until his Majesties oc<g ref="char:EOLhyphen"/>casions calling for money, she en<g ref="char:EOLhyphen"/>gaged in his service another way, directing her Letters dated <hi>April</hi> 17. 1639.<note place="margin">She a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sist<g ref="char:EOLhyphen"/>eth the King with Catholike contributi<g ref="char:EOLhyphen"/>ons. 1639.</note> (by the hands of Sir <hi>Kenelm Digby,</hi> and Mr. <hi>Walter Montague</hi>) to all the Catholikes of <hi>England</hi> and <hi>Wales,</hi> for a free Contribution towards his Maje<g ref="char:EOLhyphen"/>sties expedition into the North, (which she calls her first recom<g ref="char:EOLhyphen"/>mendation) upon which was ad<g ref="char:EOLhyphen"/>vanced forty thousand pounds; therefore her Majesty dealt a little roundly with Bishop <hi>Laud,</hi> for complaining of Sir <hi>Toby Mathew,</hi>
+                  <pb n="25" facs="tcp:207575:18"/> Mr. <hi>W. M.</hi> and other Catholikes, and moving the Councel-Table for a restraint upon men of that Pro<g ref="char:EOLhyphen"/>fession, even in Embassadors hou<g ref="char:EOLhyphen"/>ses, it being at that time, wherein they were so ready to serve the publike here at home; &amp; wherein she had so many assurances of good offices from the Pope, by his Nuncioe's <hi>Panzani</hi> and <hi>Rosetti</hi> a<g ref="char:EOLhyphen"/>bout whom and other Catholikes who had received some favours of late, there grew some mis-under<g ref="char:EOLhyphen"/>standing between her and the peo<g ref="char:EOLhyphen"/>ple, some of whom formerly had used, she thought unkind expres<g ref="char:EOLhyphen"/>sions of her, as the Author of <hi>Hi<g ref="char:EOLhyphen"/>strio-Mastix,</hi> who knowing she took delight in Dancing, Masks, and Balls, declared all women that danced in Masks, strumpets, or to that purpose. Yea, when it was known that her Majesty danced at a Ball, that very week it came out; not to mention odd expressions in several popular Sermons.</p>
+               <pb n="26" facs="tcp:207575:19"/>
+               <p>
+                  <note place="margin">Her fourth Son. 1640.</note>In those busie times <hi>July</hi> 8<seg rend="sup">th</seg>. 1640. she was brought to bed of her fourth Son, <hi>Henry</hi> of <hi>Oatlands</hi> Duke of <hi>Glocester,</hi> who was some<g ref="char:EOLhyphen"/>times designed chief Governour of these Nations, after his fathers death; but after that permitted to go beyond Sea with promise of a pension, which (because he went to his Mother) was not paid; he was a very hopeful Prince, and died of the small Pox <hi>September</hi> 13<seg rend="sup">th</seg>. 1660.<note place="margin">Queen-Mother of France in England.</note>
+               </p>
+               <p>About this time her Mother be<g ref="char:EOLhyphen"/>ing banished <hi>France,</hi> and escaping out of the French Army, in which she was carried about Prisoner, first into <hi>Flanders,</hi> and then to the Prince of <hi>Aurange,</hi> was invited out of pity by her Son and Daugh<g ref="char:EOLhyphen"/>ter into <hi>England,</hi> where she conti<g ref="char:EOLhyphen"/>nued about two years, and in <hi>Au<g ref="char:EOLhyphen"/>gust</hi> 1641. was attended by the Earl of <hi>Arundel</hi> into <hi>Holland,</hi> and thence through <hi>Zealand</hi> into <hi>Collen</hi>
+                  <pb n="27" facs="tcp:207575:19"/> in <hi>Germany,</hi> where she died; not without sad thoughts, considering that Cardinal <hi>Richlieu</hi> whom she had raised from a low estate, to be the instrument of her Govern<g ref="char:EOLhyphen"/>ment, became in his height the cause of her ruine.</p>
+               <p>
+                  <hi>Jan.</hi> 28. 1640. Sir <hi>K. Digby,</hi> &amp; Mr. <hi>Montague</hi> being brought upon their knees before the House of Com<g ref="char:EOLhyphen"/>monss, for managing the aforesaid Collection, or rather free-gift, as they alleadged, among the Catho<g ref="char:EOLhyphen"/>likes, and some words being given out, as if her Majesty had been an incendiary between the King and his people, she thought fit, <hi>Feb.</hi> 3. 1641. to write to the House of Commons by Mr. Comptroller, to this purpose.<note place="margin">Her Ma<g ref="char:EOLhyphen"/>jesties Mess<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge to<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Com<g ref="char:EOLhyphen"/>mons con<g ref="char:EOLhyphen"/>cerning th<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h l<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke contr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bu<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons.</note>
+               </p>
+               <p>That her Majesty hath been rea<g ref="char:EOLhyphen"/>dy to use her best endeavours for the removing of all misunderstan<g ref="char:EOLhyphen"/>ding between the King &amp; Subject.</p>
+               <p>That at the request of the Lords,
+<pb n="28" facs="tcp:207575:20"/> who petitioned the King for a Par<g ref="char:EOLhyphen"/>liament; her Majesty at that time wrote effectually to the King, and sent a Gentleman expresly to per<g ref="char:EOLhyphen"/>swade the King, to the holding of a Parliament.</p>
+               <p>That she hath since been most willing to do all good offices be<g ref="char:EOLhyphen"/>tween the King and his people; which is not unknown to divers of the Lords, and shall ever conti<g ref="char:EOLhyphen"/>nue so to do, as judging it the only way to happiness, for the King, her self, and Kingdom.</p>
+               <p>That her desire is, that all things be justly setled between the King, and his people, and that all cause of misunderstanding may be removed.</p>
+               <p>That her Majesty taking notice, that having one sent to her from the Pope is distasteful to the King<g ref="char:EOLhyphen"/>dom, for their better satisfaction, within convenient time she promi<g ref="char:EOLhyphen"/>seth to remove him out of the Kingdom.</p>
+               <pb n="29" facs="tcp:207575:20"/>
+               <p>That understanding likewise that exceptions have been taken at the great resort to her Chappel at <hi>Denmark-house,</hi> she will be care<g ref="char:EOLhyphen"/>ful not to exceed that which is con<g ref="char:EOLhyphen"/>venient and necessary for the ex<g ref="char:EOLhyphen"/>ercise of her Religion.</p>
+               <p>She taketh farther notice, that the Parliament is not satisfied with the manner of raising money for the King in his Journey to the North, in the year 1639. at her in<g ref="char:EOLhyphen"/>treaty from the Catholikes; to which act she was moved meerly by the dear affection she had for his Majesty, and the example of others of his Subjects, if any thing were illegal, her ignorance in the Law, was her best plea, but promi<g ref="char:EOLhyphen"/>seth to be so cautious hereafter, as not to do any thing hereafter, but what may comply with the esta<g ref="char:EOLhyphen"/>blished Laws of the Kingdom.</p>
+               <p>Her Majesty being desirous to employ her own power to unite
+<pb n="30" facs="tcp:207575:21"/> the King and people, desireth the Parliament to look forward, and to pass by such mistakes and er<g ref="char:EOLhyphen"/>rors of her Servants as might be formerly; and this their respect she promiseth shall be repaid with all the good offices she can do to the House, which shall be found real effects as often as there shall be occasion.</p>
+               <p>The effect of this prudent Mes<g ref="char:EOLhyphen"/>sage was the present mitigation of the Parliaments severity against her Collectors, and her other (then obnoxious) Officers, but notwith<g ref="char:EOLhyphen"/>standing a strange report went a<g ref="char:EOLhyphen"/>bout afterwards of their intentions to draw up Articles of High Trea<g ref="char:EOLhyphen"/>son against her, which the House disowned as a scandal.</p>
+               <p>
+                  <hi>Her Majesty answering,</hi>
+               </p>
+               <p>
+                  <note place="margin">Her Ma<g ref="char:EOLhyphen"/>jesties re<g ref="char:EOLhyphen"/>ply to the P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rliament <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y excused themselves from ha<g ref="char:EOLhyphen"/>ving any design to impeach her.</note>That there was a general report thereof, but she never saw any
+<pb n="31" facs="tcp:207575:21"/> Articles in writing, and having no certain Author, she gave but little credit thereunto; nor could she believe that they would lay any aspersions upon her, who had ever been very unapt to misconster the actions of any one person; and much more the proceedings of Parliament; and should at all times wish a happy union and un<g ref="char:EOLhyphen"/>derstanding between the King and his people.</p>
+               <p>Yet the report being generally believed, and she her self perswa<g ref="char:EOLhyphen"/>ded that it was resolved about that time either to threaten or force her away, because of the influence, she was thought to have upon the King, and for some other reasons which her self best knew,<note place="margin">Her Maje<g ref="char:EOLhyphen"/>sty going into Hol<g ref="char:EOLhyphen"/>land.</note> she got leave of his Majesty to accompany her Daughter the Princess of <hi>Au<g ref="char:EOLhyphen"/>range</hi> into <hi>Holland,</hi> which the King acquainted the Parliament with, in words to this effect.</p>
+               <pb n="32" facs="tcp:207575:22"/>
+               <p>That he was pressed by the States Embassadors to send the Princess <hi>Maria</hi> into <hi>Holland,</hi> to her late espoused Husband, and that the Queen desiring it, he had given her leave to go with her, he himself accompanying them as far as <hi>Dover.</hi>
+               </p>
+               <p>But be it remembred here (for pi<g ref="char:EOLhyphen"/>ty it is so good an act should be for<g ref="char:EOLhyphen"/>got) that her Majesty was present at most of the Lord of <hi>Straffords</hi> trial, (at which it was a goodly sight to see all the Court Ladies like so many <hi>Sempronia's,</hi>
+                  <note place="margin">Her endea<g ref="char:EOLhyphen"/>vours to save the Earl of Strafford.</note> taking notes at the trial all day, and dis<g ref="char:EOLhyphen"/>coursing it at night) and that it was discoursed, that she took off the greatest sticklers against him, and particularly the Lord <hi>Digby,</hi> who was of the close Committee (three in number) to prepare the evi<g ref="char:EOLhyphen"/>dence against the Earl, and yet made afterwards an elegant, though much displeasing speech
+<pb n="33" facs="tcp:207575:22"/> for him; a change which his, and the Earls adversaries called, a re<g ref="char:EOLhyphen"/>lenting upon the warm, and be<g ref="char:EOLhyphen"/>nign beams of Majesty reflecting on him.</p>
+               <p>Nor is it to be forgotten that her Majesty was with the King en<g ref="char:EOLhyphen"/>tertained at <hi>London,</hi>
+                  <note place="margin">The King &amp; Queen entertained at London.</note> so magnifi<g ref="char:EOLhyphen"/>cently, that it was suspected the City was fixt to their Majesties interest, till in their own defence, few days after they declared that they were not so dazled with the presence of Majesty, but that they would live and die with the Parli<g ref="char:EOLhyphen"/>ament.</p>
+               <p>Her Majesty having left <hi>En<g ref="char:EOLhyphen"/>gland,</hi> and being now arrived at <hi>Holland,</hi> and hearing that the breach between the King and Par<g ref="char:EOLhyphen"/>liament grew still wider, and con<g ref="char:EOLhyphen"/>sidering the disadvantage on his Majesties side for want of money, men and Ammunition, since his departure from <hi>London,</hi> which is
+<pb n="34" facs="tcp:207575:23"/> the store-house for all of them,<note place="margin">The Qu. assists the K<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng with supplies from Holland. 1642.</note> en<g ref="char:EOLhyphen"/>gages all her credit, &amp; her Jewels of <hi>England,</hi> which she had carried with her, for Arms, men, especi<g ref="char:EOLhyphen"/>ally Officers, and Ammunition in the <hi>Netherlands</hi> and in <hi>France,</hi> em<g ref="char:EOLhyphen"/>barking with them from <hi>Holland, Feb.</hi> 16. 1642. and after some foul and cross weather, anchoring at <hi>Burlington-Bay</hi> the 19, landed at the Key the 22, the danger where<g ref="char:EOLhyphen"/>of, take in these her own words.</p>
+               <p>The next night after we came to <hi>Burlington,</hi>
+                  <note place="margin">The Qu. dangerous return to England.</note> four of the Parlia<g ref="char:EOLhyphen"/>ments ships arrived, without be<g ref="char:EOLhyphen"/>ing perceived by us, and about five of the clock in the morning, began to ply us so fast with their Ord<g ref="char:EOLhyphen"/>nance, that they made us all rise out of our beds, and leave the Vil<g ref="char:EOLhyphen"/>lage; one of the ships did me the favour to flank upon the house where I lay, and before I was out of my bed, the Cannon-Bullets whistled so loud about me, that all
+<pb n="35" facs="tcp:207575:23"/> the company pressed me earnestly to go out of the house, their Can<g ref="char:EOLhyphen"/>non having totally beaten down all the neighbour houses, and two Cannon Bullets falling from the top to the bottom of the house where I was; so that (cloathed as well as in hast I could be) I went on foot some little distance out of the Town, (under the shelter of a ditch, like that of <hi>Newmarket</hi>) whither before I could get, the Cannon Bullets, fell thick about us, and a Serpent was killed within seventy paces of me, we in the end gained the ditch, and stayed there two hours, whilest their Cannon play'd all the while upon us; the the Bullets flew for the most part over our heads, some few only grazing on the Ditch, covered us with earth, <hi>&amp;c.</hi> till the ebbing of the tide, and the threats of the <hi>Holland</hi> Admiral put an end to that danger.</p>
+               <pb n="36" facs="tcp:207575:24"/>
+               <p>
+                  <note place="margin">The Qu. at the head of an Army at York.</note>After which her Majesty being conveyed by the Earl of <hi>Montross</hi> and the Lord <hi>Ogilby</hi> with two Troops of Horse to <hi>York</hi> raised a considerable Army, which she commanded in person, brought o<g ref="char:EOLhyphen"/>ver Sir <hi>Hugh Cholmeley,</hi> the <hi>Ho<g ref="char:EOLhyphen"/>thams,</hi> and several other persons of Quality, and divers Garrisons; left three thousand foot, and Arms for two thousand Horse under Sir <hi>Charles Cavendish</hi> the Earl of <hi>New<g ref="char:EOLhyphen"/>castle</hi>'s Brother, to fix and secure <hi>Lincolnshire,</hi> and <hi>Nottinghamshire;</hi> marching her self in the head of three thousand foot, thirty Com<g ref="char:EOLhyphen"/>panies of Horse; and Dragoons, six pieces of Cannon, two Mor<g ref="char:EOLhyphen"/>tar-pieces, and one hundred and fifty Wagons of money, from <hi>Newark,</hi> by <hi>Weston,</hi> and so to <hi>Ash<g ref="char:EOLhyphen"/>by,</hi> to meet his Majesty at <hi>Edgehil,</hi> Mr. <hi>Jermine,</hi> since Earl of St. <hi>Al<g ref="char:EOLhyphen"/>bans</hi> being Captain of her Guards, Sir <hi>Alexander Lesley</hi> ordering the
+<pb n="37" facs="tcp:207575:24"/> Infantry, Sir <hi>John Gerard</hi> com<g ref="char:EOLhyphen"/>manding the Horse, and Captain <hi>Leg</hi> the Artillery; her Majesty marching in the head as Gene<g ref="char:EOLhyphen"/>ral.</p>
+               <p>Having now met the King her Husband,<note place="margin">The King &amp; Queen at Oxford.</note> she is by him conveyed to <hi>Oxford,</hi> where she stayed till 1644. <milestone type="tcpmilestone" unit="unspecified" n="1644"/> when being big with Child, upon some presumptions that <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> would be besieged, she retired to <hi>Exeter,</hi> where she was brought to bed, <hi>June</hi> 16. 1644. of her Daughter <hi>Henrietta,</hi>
+                  <note place="margin">The Lady Henrietta born at Exeter.</note> whom she trusted to the care and government of the Lady <hi>Dalkieth,</hi> Sir <hi>Edward Villiers</hi> his Daughter, and the Lord <hi>Dalkieth,</hi> the Lord <hi>Mortons</hi> eldest Sons wife, her Majesty passing to <hi>France</hi> from <hi>Pendennis,</hi>
+                  <note place="margin">Her Maje<g ref="char:EOLhyphen"/>sty at France.</note>
+                  <hi>July</hi> 15. 1644. when her moneth was hard<g ref="char:EOLhyphen"/>ly yet expired.</p>
+               <p>While the Queen was here in <hi>England,</hi>
+                  <note place="margin">Her advice to the King.</note> she gave a shrewd ad<g ref="char:EOLhyphen"/>vice, that his Majesty should go
+<pb n="38" facs="tcp:207575:25"/> to <hi>London,</hi> directly after his Victo<g ref="char:EOLhyphen"/>ry in the West, rather than lose time about <hi>Glocester,</hi> which she said would have fallen in of its self: and a great piece of service she intended, when she would have renewed the Treaty at <hi>Ux<g ref="char:EOLhyphen"/>bridge,</hi> offering her mediation to salve the credit both of the King and Parliament: Besides that, it is observable, that when her Ma<g ref="char:EOLhyphen"/>jesty arrived at <hi>Oxford,</hi> Prince <hi>Harcourt</hi> an Embassador of Medi<g ref="char:EOLhyphen"/>ation (it was said by her appoint<g ref="char:EOLhyphen"/>ment) arrived from <hi>France</hi> at <hi>Lon<g ref="char:EOLhyphen"/>don.</hi>
+               </p>
+               <p>Upon her return into <hi>France,</hi> great were the alterations in that Kingdom,<note place="margin">A change of affairs n France.</note> her Majesties Brother being dead, who was ruled by <hi>Richlieu,</hi> and <hi>Richlieu</hi> died, who to say no worse, carried towards <hi>En<g ref="char:EOLhyphen"/>gland</hi> a reserved spirit: it was re<g ref="char:EOLhyphen"/>markable that Pope <hi>Paul</hi> the fifth, looking in his face (when being a
+<pb n="39" facs="tcp:207575:25"/> Gentleman of <hi>Paris,</hi> he took Or<g ref="char:EOLhyphen"/>ders at <hi>Rome</hi>) should say, that young man should prove the great<g ref="char:EOLhyphen"/>est cheat in the World; consider<g ref="char:EOLhyphen"/>ing how he embroiled all <hi>Europe</hi> to govern it, as if he had been of the Spanish Cardinals mind, who loved the smell of Gun-powder, better than that of Incense.</p>
+               <p>Her Majesty found the Queen-Regent more tractable and real, with whom she entred into a per<g ref="char:EOLhyphen"/>sonal friendship, minding her that after the Regencie she might want friends, and Cardinal <hi>Mazarine</hi> was observed generally to be more civil to the Kings interest, as it appeared to be low, and procured several ships, many Arms, and good sums of money in that Court, besides an embargo on the Parlia<g ref="char:EOLhyphen"/>ments ships.</p>
+               <p>Nor did the Queen omit to sol<g ref="char:EOLhyphen"/>licite <hi>Denmarks</hi> assistance,<note place="margin">Her Ma<g ref="char:EOLhyphen"/>sties nego<g ref="char:EOLhyphen"/>tiations beyond Sea.</note> drawing up <hi>Cockrams</hi> Instructions her self,
+<pb n="40" facs="tcp:207575:26"/> for Men and Arms, especially Horse, for the service of that No<g ref="char:EOLhyphen"/>ble and Gallant Commander <hi>Mon<g ref="char:EOLhyphen"/>tross,</hi> whose great Victories would have been as useful as wonderful, had he then been supplied with a thousand Horse, negotiating how<g ref="char:EOLhyphen"/>ever for a passage to the Duke of <hi>Curlands</hi> Auxiliaries through the <hi>Zound</hi> into <hi>Scotland.</hi>
+               </p>
+               <p>
+                  <note place="margin">Her large supplies from Dun<g ref="char:EOLhyphen"/>kirk.</note>She setled a trade between the Tin of <hi>Cornwal,</hi> and the money and Arms of <hi>France,</hi> sending from <hi>Dunkirk</hi> at one time, 4 Frigats with six thousand &amp; forty Muskets, two thousand pair of Pistols, twelve hundred Carabines, many Swords, four hundred Shovels, twenty se<g ref="char:EOLhyphen"/>ven thousand pound of Match, and fifty thousand pound of Brimstone, with four hundred Barrels of Powder.</p>
+               <list>
+                  <item>She borrowed at <hi>Rotterdam</hi> of the Burgomasters <hi>Gilders.</hi> 40000</item>
+                  <pb n="41" facs="tcp:207575:26"/>
+                  <item>And of the Bank there 25000</item>
+                  <item>Of the Bank at <hi>Amster<g ref="char:EOLhyphen"/>dam</hi> by Mr. <hi>Sandys</hi> 845000</item>
+                  <item>At the <hi>Hague</hi> of <hi>Fletch<g ref="char:EOLhyphen"/>er c lftcher</hi> 126000</item>
+                  <item>More of him 40000</item>
+                  <item>At the <hi>Hague</hi> of <hi>van Li<g ref="char:EOLhyphen"/>ren,</hi> by Sir <hi>W. Boswel</hi> 9000</item>
+                  <item>Of Monsr. <hi>D'espernoone</hi> 230000</item>
+                  <item>Of <hi>Webster</hi> by three ob<g ref="char:EOLhyphen"/>ligations together on the Pendant Pearls 100000</item>
+                  <item>Of him more 43200</item>
+                  <item>Of him more and bor<g ref="char:EOLhyphen"/>rowed by him 70000</item>
+                  <item>Of Monsieur <hi>Vicford</hi> 70000</item>
+                  <item>Of Sir <hi>Charles Herbert</hi> 20000</item>
+                  <item>Of <hi>Cullimore</hi> at <hi>Antwerp</hi> 64000</item>
+               </list>
+               <p>In all 1281700 <hi>Gilders.</hi>
+               </p>
+               <list>
+                  <item>To the Prince of <hi>Aurange</hi> 300000</item>
+                  <item>To <hi>Webster</hi> six Rubies 40000</item>
+               </list>
+               <p>Her Majesty by proposal of a match of the Prince with the Prin<g ref="char:EOLhyphen"/>cess of <hi>Aurange,</hi> went far to the
+<pb n="42" facs="tcp:207575:27"/> drawing of the Dutch to a League offensive and defensive with <hi>France</hi> against the Parliament, <hi>Sa<g ref="char:EOLhyphen"/>bran</hi> residing there for that purpose from the French Court, pressing hard for the dismission of <hi>Strick<g ref="char:EOLhyphen"/>land</hi> the Parliaments Agent; for a free Port to the Kings side, and none for his enemies ships and prizes; and lending the French a good number of ships: not to mention Sir <hi>Kenelm Digby</hi>'s Agen<g ref="char:EOLhyphen"/>cie at <hi>Rome,</hi> Sir <hi>John Talbots</hi> ne<g ref="char:EOLhyphen"/>gotiation at <hi>Venice,</hi> Sir <hi>Henry de Vies</hi> Treaty with the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> Dr. <hi>Goffes</hi> Ministry with the Prince of <hi>Aurange</hi> for shipping to transport the <hi>Lorrain</hi> assistances; a constant correspondence by Let<g ref="char:EOLhyphen"/>ters with the King, and this in the midst of several distempers of bo<g ref="char:EOLhyphen"/>dy, and not a few troubles of mind, especially in reconciling se<g ref="char:EOLhyphen"/>veral Malecontents, as the Lord <hi>P.</hi> Lord <hi>W. E.</hi> of <hi>S.</hi> and others,
+<pb n="43" facs="tcp:207575:27"/> whom she was contented to re<g ref="char:EOLhyphen"/>ceive in <hi>France,</hi> when they grew troublesome at <hi>Oxford:</hi> I had al<g ref="char:EOLhyphen"/>most forgot her continual media<g ref="char:EOLhyphen"/>tion with the <hi>Irish</hi> Catholikes, for Cessation, and other points, and all these managed with so much industry, that her Majesty writes, <hi>Holy days were troublesome to her in that respect, and visits irksome.</hi>
+               </p>
+               <p>After her party in <hi>Scotland,</hi> and at Sea failed her, <hi>January</hi> 1648. her Majesty at <hi>Paris</hi> hearing of the Kings usage, and intended Trial,<note place="margin">Her Let<g ref="char:EOLhyphen"/>ters to the King.</note> writes to him by one <hi>Wheeler,</hi> em<g ref="char:EOLhyphen"/>ployed by Major <hi>Boswels</hi> man, ex<g ref="char:EOLhyphen"/>pressing her deep sense, and sor<g ref="char:EOLhyphen"/>row for his Majesties condition, with whom she saith, she bears an equal snare, and wishes to die for him; nor will she live without him, for whose interest she hath, and will do her utmost in all pos<g ref="char:EOLhyphen"/>sible ways, and means to help him.</p>
+               <pb n="44" facs="tcp:207575:28"/>
+               <p>
+                  <note place="margin">And Ge<g ref="char:EOLhyphen"/>neral.</note>She writes likewise, <hi>To her Tru<g ref="char:EOLhyphen"/>sty and well Beloved</hi> Thomas <hi>Lord</hi> Fairfax, <hi>General,</hi> desiring his assi<g ref="char:EOLhyphen"/>stance that she might see the King her Husband, before he be pro<g ref="char:EOLhyphen"/>ceeded against by any Trial, or charge, and to have a Pass for her secure coming and returning, which Letter was delivered by the French Embassador to the Gene<g ref="char:EOLhyphen"/>ral, and being by him sent to the House was laid aside; that House having after much debate 1644. Voted her Majesty guilty of High Treason, and sent the Impeach<g ref="char:EOLhyphen"/>ment up to the Lords by Mr <hi>Pym,</hi> where it stuck many moneths, and afterwards passed there also.</p>
+               <p>
+                  <note place="margin">The Q<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. receives the news of his Ma<g ref="char:EOLhyphen"/>jesties death, with commen<g ref="char:EOLhyphen"/>dations from him.</note>Receiving the news of bis Ma<g ref="char:EOLhyphen"/>jesties death (notwithstanding the interposition of so many Kingdoms and States, she had procured in his behalf) together with the commendations he sent her a day or two before his death, by the
+<pb n="45" facs="tcp:207575:28"/> Lady <hi>Elizabeth, January</hi> 1648. whom he bid tell her Mother, that his thoughts had never strayed from her, and that his love should be the same to the last; withal commanding her and her Brother to be obedient to their Mother (as he desired the Prince to hearken to her in all things, but in matters of Religion, the only things they themselves (he said) differed in) her Majesty retired to St. <hi>Clou</hi> a Religious house,<note place="margin">The Qu. goes into a Mona<g ref="char:EOLhyphen"/>stery.</note> where she was condoled with by all the Princes and States of <hi>Europe;</hi> continuing here, till she was prevailed with by the French Court to return to Palace-Royal, a stately House built by Cardinal <hi>Richlieu</hi> in <hi>Pa<g ref="char:EOLhyphen"/>ris.</hi> Thus she was at last advised to admit of a more cheerful conversa<g ref="char:EOLhyphen"/>tion, which she comported with the rather to promote her Sons affairs whom she made the instrument, taking off the Prince of <hi>Conde,</hi> and
+<pb n="46" facs="tcp:207575:29"/> the Duke of <hi>Lorrain,</hi> from the heads of two great Armies, and reconciling them to the King, whereby he obliged, and in a man<g ref="char:EOLhyphen"/>ner saved the French Crown, me<g ref="char:EOLhyphen"/>diating likewise for the recalling of <hi>Mazarine,</hi> who was likewise thereby engaged to his service, to pass by the constant supplies she allowed his Majesty and his fol<g ref="char:EOLhyphen"/>lowers, out of her own Pension: and the advices she gave him upon many important occasions, as not to venture into <hi>Ireland</hi> 1648. and when he demurred in the Treaty with <hi>Scotland,</hi> to close with them immediately, and go over 1650. keeping <hi>France</hi> and <hi>Holland</hi> in a resolute posture of War against the Parliament, till 1653.</p>
+               <p>When her adversaries successes turning the tide, and she not able to keep either state from closing with them, she betook her self to a private life, studying nothing
+<pb n="47" facs="tcp:207575:29"/> more than how to live in-offen<g ref="char:EOLhyphen"/>sively (her Children being forced from her for reasons of State not to be contradicted, and banished as it were from their banishment: till 1658. when there being some likelihood of his Majesties Restau<g ref="char:EOLhyphen"/>ration, the general inclinations of the English Nations tending there<g ref="char:EOLhyphen"/>unto, and the divisions of the o<g ref="char:EOLhyphen"/>ther side making way for it, she ad<g ref="char:EOLhyphen"/>vised the King not to adventure into <hi>England,</hi> upon the rising of a<g ref="char:EOLhyphen"/>ny one party, but rather to stay for a free and solemn invitation, which accordingly fell out to the great sa<g ref="char:EOLhyphen"/>tisfaction of the Nation in the year 1660.</p>
+               <p>To which her Majesty contri<g ref="char:EOLhyphen"/>buted what lay in her power,<note place="margin">The Qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> assist<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he King her Son upon h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Re<g ref="char:EOLhyphen"/>staur<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ti<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</note> pro<g ref="char:EOLhyphen"/>curing an annuity of fifty thousand Crowns a year from her Sister the Dutchess Royal of <hi>Savoy;</hi> pre<g ref="char:EOLhyphen"/>vailing upon <hi>Turein</hi> to wait upon his Majesty, if there were occasi<g ref="char:EOLhyphen"/>on
+<pb n="48" facs="tcp:207575:30"/> into <hi>England</hi> (upon Sir <hi>George Booths</hi> Declaration) from St. <hi>Ma<g ref="char:EOLhyphen"/>loes,</hi> where his Majesty then resi<g ref="char:EOLhyphen"/>ded, awaiting the progress of that affair; being ready with his pre<g ref="char:EOLhyphen"/>sence and his counsel: but the Queen still not approving of his Majesties venturing into <hi>England,</hi> upon the invitation of a few per<g ref="char:EOLhyphen"/>sons, but advised him rather to stay till he had an Army, with Ports, and Garrisons, declaring for him.</p>
+               <p>Be it here remembred, that a Writer hath set down her Maje<g ref="char:EOLhyphen"/>sties opinion for going to <hi>Ireland,</hi> 1649. to this purpose, That his presence was necessary there to quicken the endeavours of his friends, and to suppress the hu<g ref="char:EOLhyphen"/>mours of uniting factions, all inte<g ref="char:EOLhyphen"/>rests then unanimously joyning to oppose the common Enemy, redu<g ref="char:EOLhyphen"/>cing <hi>Oneal</hi> and many others to sub<g ref="char:EOLhyphen"/>mit to <hi>Jones,</hi> who was fallen off
+<pb n="49" facs="tcp:207575:30"/> upon discontents (as was suppo<g ref="char:EOLhyphen"/>sed with Sir <hi>Nicholas Byron,</hi> about a Lieutenant Colonels place be<g ref="char:EOLhyphen"/>stowed over his head) and was not yet closed with the Independants, so called; the Presbyterians (as they were termed) of whom he was thought one, being now dis<g ref="char:EOLhyphen"/>countenanced, so might he have easily made an end of one War in that Kingdom, and have had twen<g ref="char:EOLhyphen"/>ty thousand men to begin another War for the rest.</p>
+               <p>Although her Majesty could not do what she desired for her Son in <hi>France,</hi> yet she could discover what was done against him in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> there being (as it was sup<g ref="char:EOLhyphen"/>sosed) a very neer corresponden<g ref="char:EOLhyphen"/>cie at that time between Cardinal <hi>Mazarine</hi> and the Parliament of <hi>England</hi> for the time being, as had been between him and the Prote<g ref="char:EOLhyphen"/>ctor, whom he advised to take the Government upon him, as he did
+<pb n="50" facs="tcp:207575:31"/> the Lord General to be King, and Mr. <hi>Lenthal,</hi> who would say (as the King writes to the Queen 1643.) that he had Letters from him, to make his place perpetual, offering to all of them his best ad<g ref="char:EOLhyphen"/>vice, and most faithful assistance; though yet that Cardinal, who one saith, was good at cogging, since he laid the foundation of his for<g ref="char:EOLhyphen"/>tune,<note place="margin">Ca<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>di<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> by winning twenty thousand crowns at play, when a private Gentlemans servant, from whom he then went to Cardinal <hi>Barberi<g ref="char:EOLhyphen"/>noes</hi> service, who sent him to <hi>France</hi> to countermine <hi>Richlieu,</hi> with whom closing, since he could not over-reach him, he became first his friend, then his confident, and af<g ref="char:EOLhyphen"/>terwards his Successor.</p>
+               <p>This subtle <hi>Italian</hi> then at <hi>Paris</hi> immediately upon the news of the death of <hi>Oliver</hi> Protector, went presently to her Majesty, very ear<g ref="char:EOLhyphen"/>nestly congratulating the innocent
+<pb n="51" facs="tcp:207575:31"/> distressed Queen, that the great adversary of her and her Relations was now gone, and that undoubt<g ref="char:EOLhyphen"/>edly the restauration of her Son, was then approaching, which yet was cunningly and secretly obstru<g ref="char:EOLhyphen"/>cted by him, while the <hi>Danish</hi> Em<g ref="char:EOLhyphen"/>bassador endeavoured to treat with <hi>Richard,</hi> for closing with the Kings interest upon honourable terms, engaging his Majesties word for the performance of them.</p>
+               <p>At the great Treaty at <hi>St. Jean de Luz,</hi> between the Crowns of <hi>France</hi> and <hi>Spain,</hi> managed by Car<g ref="char:EOLhyphen"/>dinal <hi>Mazarine,</hi> and Don <hi>Lewis de Haro,</hi> her Majesty was not a little concerned, the Lord of St. <hi>Albans</hi> being Plenipotentiary there in be<g ref="char:EOLhyphen"/>half of his Majesty, and prevailed that his Majesties concerns should be regarded in private distinct Ar<g ref="char:EOLhyphen"/>ticles, between the two Crowns, in so much that <hi>Lockart</hi> the Parlia<g ref="char:EOLhyphen"/>ments Agent, was disregarded, and
+<pb n="52" facs="tcp:207575:32"/> forced by some affronts to be gone as soon as he came; a person so firm to his Masters interest, that he was not to be won over, or obli<g ref="char:EOLhyphen"/>ged to the contrary side: Nor was <hi>Lambert,</hi> to whom the Lord <hi>Hatton</hi> in his Majesties name, of<g ref="char:EOLhyphen"/>ferred honourable terms, if he would now at last mind his own, and the Kingdoms good, in return<g ref="char:EOLhyphen"/>ing to his Alleageance, and con<g ref="char:EOLhyphen"/>vert his designs for himself, to the service of his Sovereign in his re<g ref="char:EOLhyphen"/>stitution; the said Lord farther assuring him, that if he did it not, it would be presently done with<g ref="char:EOLhyphen"/>out him, beyond his power of re<g ref="char:EOLhyphen"/>medying it, and therefore he should not let slip such an oppor<g ref="char:EOLhyphen"/>tunity, of raysing himself and his Posterity, which however he did, vowing at his going out to the North, <hi>That he would not leave a Cavalier to piss against the wall.</hi>
+               </p>
+               <pb n="53" facs="tcp:207575:32"/>
+               <p>Her Majesty in the mean time found her cause growing to great reputation, by reason of the divi<g ref="char:EOLhyphen"/>sions then in <hi>England,</hi> and saw her Son respected at <hi>Paris</hi> as Monarch of Great <hi>Britain;</hi> and at <hi>Brussels</hi> entertained as King of <hi>England;</hi> many of his enemies it is like, re<g ref="char:EOLhyphen"/>penting now, that a Letter of his Majesties, which was delivered by Mr. <hi>Nevil</hi> to the House a little be<g ref="char:EOLhyphen"/>fore its dissolution was not read.</p>
+               <p>When his Majesty was at <hi>Col<g ref="char:EOLhyphen"/>len</hi> and <hi>Franckfort</hi> to sollicite some <hi>German</hi> assistance, the Queen-Mo<g ref="char:EOLhyphen"/>ther (as one writes) by her Daughter the Princess of <hi>Orange,</hi> writ to Queen <hi>Christina</hi> of <hi>Swe<g ref="char:EOLhyphen"/>den,</hi> who was then in the Arch-Duke of <hi>Insprucks</hi> Country, where<g ref="char:EOLhyphen"/>upon his Majesty, the Dukes of <hi>York,</hi> and <hi>Glocester,</hi> had some hours conference with that Queen, about the King of <hi>Sweden,</hi> marching to <hi>Poland,</hi> which the Protector <hi>Oli<g ref="char:EOLhyphen"/>ver</hi>
+                  <pb n="54" facs="tcp:207575:33"/> encouraged, that the Emperor might thereby be put to stand up<g ref="char:EOLhyphen"/>on his Guard, and so be diverted from assisting the <hi>Spanjard,</hi> who had embraced his Majesties inter<g ref="char:EOLhyphen"/>est so far, that his Majesty after a private conference with Count <hi>Fuensaldagne</hi> near <hi>Lovain,</hi> resided at the Royal Mansion of <hi>Treveur</hi> near <hi>Brussels,</hi> in order to a nearer conjunction of Councels, and For<g ref="char:EOLhyphen"/>ces; and after that at <hi>Bruges,</hi> where was all the Royal Family, except her Majesty, and her young<g ref="char:EOLhyphen"/>est Daughter <hi>Henrietta,</hi> and seve<g ref="char:EOLhyphen"/>ral Persons of Quality, as the Lord of <hi>Ormo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d,</hi> the Lord <hi>Wilmot,</hi> Lord <hi>Gerard,</hi> Lord <hi>Wentworth,</hi> Lord <hi>Taaf,</hi> and General <hi>Middleton,</hi> with their respective Regiments, ready upon the Sea-coasts of <hi>Flan<g ref="char:EOLhyphen"/>ders.</hi>
+                  <note place="margin">The Duke of Gloce<g ref="char:EOLhyphen"/>ster in the J<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>suits Colledge at Paris.</note>
+               </p>
+               <p>About which time her Majesty having p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the Duke of <hi>Gloce<g ref="char:EOLhyphen"/>ster</hi> in the Jesuits Colledge at <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi>
+                  <pb n="55" facs="tcp:207575:33"/> for his education, his Majesty sent the Lord of <hi>Ormond</hi> for him, who being perswaded by the Mar<g ref="char:EOLhyphen"/>quess of <hi>Praslin,</hi> and Abbot <hi>Mon<g ref="char:EOLhyphen"/>tague</hi> to stay, answered, <hi>That he was to obey his Sovereign before any Relation on earth;</hi> and so came with his Grace to the King.</p>
+               <p>
+                  <hi>November</hi> the second 1660.<note place="margin">Queen-Mother arrives in England, with the Princess Henrietta.</note> af<g ref="char:EOLhyphen"/>ter they had suffered that had a hand in the death of the Royal Martyr, and an Act of Oblivion was passed to settle the Kingdom, her Majesty arrived at <hi>Whitehal,</hi> with the Princess <hi>Henrietta,</hi> and Prince <hi>Edward</hi> Brother to Prince <hi>Rupert:</hi> his present Majesty pay<g ref="char:EOLhyphen"/>ing her those respects that were due to a Mother, whose welcome to his Kingdoms, he could not bet<g ref="char:EOLhyphen"/>ter manifest, or oblige to her, than by rendring them innocent, and free of that horrible guilt, which had divorced her from her Hus<g ref="char:EOLhyphen"/>band, and estranged both King
+<pb n="56" facs="tcp:207575:34"/> and Queen from their peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>Nor was it just or civil she should be here received without satisfaction and expiation for those crimes, the very tendences where<g ref="char:EOLhyphen"/>to had so rudely driven her to seek her safety abroad: The King brought her to <hi>Whitehall</hi> the second of <hi>November,</hi> after nineteen years discontinuance.</p>
+               <p>The Princess <hi>Henrietta</hi> who came with her Majesty, never had breathed English Air before, but some two years after her Birth, which happened in <hi>Exceter, June</hi> 16. 1644. Nor is it possible to express the joy of this meeting, af<g ref="char:EOLhyphen"/>ter so tedious, and injurious an ab<g ref="char:EOLhyphen"/>sence, and as their joy was great, so their entertainment was highly magnificent.</p>
+               <p>These felicities of the Queen (as the course of all worldly things are guided) were soon a<g ref="char:EOLhyphen"/>bated,
+<pb n="57" facs="tcp:207575:34"/> by the immature,<note place="margin">The death of the Duke of Gl<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cester, Sept. 13. 1660.</note> and most lamented death of the right excel<g ref="char:EOLhyphen"/>lent Prince <hi>Henry</hi> Duke of <hi>Gloce<g ref="char:EOLhyphen"/>ster,</hi> her youngest Son, a Prince of very extraordinary hopes; but si<g ref="char:EOLhyphen"/>lence will best become our lamen<g ref="char:EOLhyphen"/>tation, for his vertues, and our loss of them transcend beyond expres<g ref="char:EOLhyphen"/>sion: he died of the small Pox, a<g ref="char:EOLhyphen"/>ged twenty years and two months, after much blood-letting, and was interred with a private funeral, in <hi>Henry</hi> the Sevenths Chappel at <hi>Westminster,</hi> just before the arrival of his Sister the Princess of <hi>Au<g ref="char:EOLhyphen"/>rang,</hi>
+                  <note place="margin">Princess of Aurange arrives in England.</note> who came to joy, and feli<g ref="char:EOLhyphen"/>citate her Brothers in their happy restauration.</p>
+               <p>That happy Parliament which had rebuilt the glorious structure of the English Antient,<note place="margin">The Par<g ref="char:EOLhyphen"/>liament dissolved.</note> and re<g ref="char:EOLhyphen"/>nowned Government, and had as<g ref="char:EOLhyphen"/>sured the foundation thereof, in the established Throne of our So<g ref="char:EOLhyphen"/>reign, came now to its period; but
+<pb n="58" facs="tcp:207575:35"/> that no revolution of time should obliterate the memory of those ex<g ref="char:EOLhyphen"/>cellent worthy things had been done by it, for the good of King, and Kingdom, his Majesty honou<g ref="char:EOLhyphen"/>red it by his Royal mouth, with the never to be forgotten Epithite, of, <hi>The Healing Parliament,</hi> which will undoubtedly recommend it to Posterity, as long as any grie<g ref="char:EOLhyphen"/>vance, humors, or distempers, shall remain in Church, or State.</p>
+               <p>Death had tasted of the Blood-Royal in the lamented fate of that Noble <hi>Henry</hi> Duke of <hi>Glocester,</hi>
+                  <note place="margin">Princess of Aurange not death.</note> and as if there were not only a cir<g ref="char:EOLhyphen"/>culation of it in every individual, it naturally ran in the same di<g ref="char:EOLhyphen"/>stempers round a whole family, the infection by a kind of sympathy in the same disease of the small Pox, seizing the vitals of the most illu<g ref="char:EOLhyphen"/>strious <hi>Mary</hi> Princess of <hi>Aurange,</hi> in spight of all Art, or remedy
+<pb n="59" facs="tcp:207575:35"/> (though the blooding of her, was causlesly, and ignorantly taxed) carried her to her grave, leaving the whole Court in a very great, and almost disconsolate sadness; and her Son, the Prince of <hi>Au<g ref="char:EOLhyphen"/>rangr,</hi> ten years and one moneth old; she deceased on the twenty fourth of <hi>December,</hi>
+                  <note place="margin">The Assu<g ref="char:EOLhyphen"/>rance Frigat overset.</note> her death being ushered with a sad accident, the oversetting of the <hi>Assurance</hi> Frigat, then riding at Anchor at <hi>Wolledge,</hi> by a sudden gust of wind, by which disaster many persons of the Ships company were drown<g ref="char:EOLhyphen"/>ed.</p>
+               <p>The Princess was buried with a private Funeral,<note place="margin">Princess of Aurange her fune-</note> yet honorable e<g ref="char:EOLhyphen"/>nough, the manner thus: About five days after her decease, the chiefest of the Nobility met toge<g ref="char:EOLhyphen"/>ther in the House of Peers, to at<g ref="char:EOLhyphen"/>tend the Royal Corps of this cess, which was brought about nine of the clock at night, from
+<pb n="60" facs="tcp:207575:36"/>
+                  <hi>Somerset-house</hi> house thither; from whence they proceeded with the funeral, through a lane of Guards of the Duke of <hi>Albemarls</hi> Regi<g ref="char:EOLhyphen"/>ment of Foot; First went seve<g ref="char:EOLhyphen"/>ral Gentlemen and Knights; next, the Servants of his Royal Highness the Duke of <hi>York;</hi> then the Ser<g ref="char:EOLhyphen"/>vants of the Queen; after whom came his Majesties Servants; and next those of the deceased Lady; then two Heralds before <hi>James</hi> (Marquess, now) Duke of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> Lord Steward of his Maje<g ref="char:EOLhyphen"/>sties Houshold, <hi>Edward,</hi> Earl of <hi>Manchester,</hi> Lord Chamberlain of the same; after whom went <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> Lord <hi>Hide,</hi> Lord Chancel<g ref="char:EOLhyphen"/>lour of <hi>England,</hi> with the Purse and Mace born before him; after whom came another Herauld with a Coronet upon black Velvet, and then the Royal Corps carried by her own Servants, the Pall being supported by six Earls, and the
+<pb n="61" facs="tcp:207575:36"/> Canopy caried over it, by several Baronets; his Royal Highness the D. of <hi>York</hi> as principal Mourner fol<g ref="char:EOLhyphen"/>lowed the Corps, with a Herauld before him, divers persons of Quality bearing his Train; in this order they came to <hi>Henry</hi> the Se<g ref="char:EOLhyphen"/>venths Chappel, where she was interred in a Vault particularly set apart for the Royal Line.</p>
+               <p>This Princess and the Duke of <hi>Glocester</hi> who preceded her to bliss, needed no Effigies to present them to our eye, being like vertue, not to be pictured; and can have no resemblance, but in the mind, where with immortality they have placed their Monuments, to dure, and last, with Eternity it self.</p>
+               <p>Her Majesty after her long ab<g ref="char:EOLhyphen"/>sence from the Court, and people,<note place="margin">Her Maje<g ref="char:EOLhyphen"/>st<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es Re<g ref="char:EOLhyphen"/>venew set<g ref="char:EOLhyphen"/>led.</note> being now returned, she settleth her Court and Revenew, which was threescore thousand pounds
+<pb n="62" facs="tcp:207575:37"/>
+                  <hi>per annum:</hi> thirty thousand pounds <hi>per annum</hi> for her Joynture, and thirty thousand pounds <hi>per annum</hi> as a Pension from his Majesty out of the Exchequer.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="list">
+                           <head>The Officers and Servants of Her Majesties Court.</head>
+                           <p n="1">
+                              <note place="margin">A Cata<g ref="char:EOLhyphen"/>logue of the Ser<g ref="char:EOLhyphen"/>vants be<g ref="char:EOLhyphen"/>longing to her Maje<g ref="char:EOLhyphen"/>sty.</note>1. The Lord Chamberlain, or Steward of her Majesties Reve<g ref="char:EOLhyphen"/>new, was <hi>Henry</hi> Lord <hi>Jermyn,</hi> Earl of St. <hi>Albans.</hi>
+                           </p>
+                           <p n="2">2. The Vice-Chamberlain, Monsieur <hi>Vautelet,</hi> whose Sallary was two hundred pounds <hi>per an<g ref="char:EOLhyphen"/>num.</hi>
+                           </p>
+                           <p n="3">3. The Chancellour Sir <hi>Kenelm Digby,</hi> whose place after his death was managed by Sir <hi>John Winter,</hi> Sir <hi>Henry Wood,</hi> and Sir <hi>Robert Long.</hi>
+                           </p>
+                           <p n="4">4. The Master of the Horse, the Lord <hi>Arundel</hi> of Warder, Count of the Empire.</p>
+                           <p n="5">
+                              <pb n="63" facs="tcp:207575:37"/>5. Her Secretary, Sir <hi>John Win<g ref="char:EOLhyphen"/>ter.</hi>
+                           </p>
+                           <p n="6">6. The Treasurer, and receiver General of the Revenew, Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Wood,</hi>
+                           </p>
+                           <p n="7">7. The Comptrouler of her Houshold, Sir <hi>Thomas Bond.</hi>
+                           </p>
+                           <p n="8">8. The Master of the Robes, Sir <hi>Thomas Orke.</hi>
+                           </p>
+                           <p n="9">9. Four Gentlemen-Ushers of the Privy-Chamber, each ones Sallary being one hundred and thirty pounds <hi>per annum,</hi> and diet.</p>
+                           <p n="10">10. Four Grooms of the Pri<g ref="char:EOLhyphen"/>vy-Chamber, the Sallary three-score pounds <hi>per annum,</hi> and Diet.</p>
+                           <p n="11">11. Four Gentlemen-Ushers, Quarter-Waiters, their Sallary threescore pounds <hi>per annum,</hi> and Diet: four Pages of the presence, and eight Grooms of the Great Chamber.</p>
+                           <p n="12">12. Two Cup-bearers, two Carvers, two Sewers, two Gen<g ref="char:EOLhyphen"/>tlemen
+<pb n="64" facs="tcp:207575:38"/> Ushers of the presence-Chamber, each of them having one hundred and twenty pounds Sallary, and a Table among them all.</p>
+                           <p n="13">13. The Ladies of the Cham<g ref="char:EOLhyphen"/>ber, the chiefest whereof were, the Dutchess Dowager of <hi>Richmond,</hi> the Duke of <hi>Buckinghams</hi> Sister, Groom of the Stool, the Countess of <hi>Newport</hi> Lady of the Cham<g ref="char:EOLhyphen"/>ber.</p>
+                           <p n="14">14. Four Ladies of the Privy-Chamber, the Lady <hi>Price,</hi> the Lady <hi>Bond,</hi> and two more, each one having the Sallary of one hun<g ref="char:EOLhyphen"/>dred and fifty pounds <hi>per annum,</hi> with eight women of the Bed-Chamber.</p>
+                           <p n="15">15. The Lady <hi>Saunderson,</hi> and others of the Laundry, a Semp<g ref="char:EOLhyphen"/>stress, and a Starcher.</p>
+                           <p n="16">16. The Lord Almoner, Abbot <hi>Montague,</hi> Brother to the Earl of <hi>Manchester;</hi> and since her Maje<g ref="char:EOLhyphen"/>sties
+<pb n="65" facs="tcp:207575:38"/> death, Lord Almoner to the Duke of <hi>Orleans,</hi> his Sallary be<g ref="char:EOLhyphen"/>ing seven hundred pounds <hi>per an<g ref="char:EOLhyphen"/>num.</hi>
+                           </p>
+                           <p n="17">17. The Confessor, Father <hi>Lambert,</hi> a French Gentleman, his Sallary three hundted pounds <hi>per annum.</hi>
+                           </p>
+                           <p n="18">18. The Clerk of the Closet, and Assistant to the Confessor, of the Order of the Oratory, with two hundred pounds Sallary <hi>per annum;</hi> with a Lay-Brother whose Sallary was forty pounds per <hi>an<g ref="char:EOLhyphen"/>num;</hi> the Covent of <hi>Capuchins,</hi> adjoyning to the Chappel, to which belonged a Warden, called Father-Guardian, seven Priests, and two Lay-Brothers, who un<g ref="char:EOLhyphen"/>dertook the Service of the Chap<g ref="char:EOLhyphen"/>pel daily, and made Sermons e<g ref="char:EOLhyphen"/>very Sunday, Holy-day, and three days in the weeks of Lent, her Majesty allowing for the main<g ref="char:EOLhyphen"/>tenance thereof a Revenew of
+<pb n="66" facs="tcp:207575:39"/> five hundred pounds <hi>per annum.</hi>
+                           </p>
+                           <p n="19">19. A Physitian, and an Apo<g ref="char:EOLhyphen"/>thecary.</p>
+                           <p n="20">20. A Guard, the Earl of St. <hi>Albans</hi> being Captain thereof, and Monsieur <hi>de la Chappel</hi> Lieutenant; Monsieur <hi>Fremon</hi> exempt of the Guards; four and twenty Gentle<g ref="char:EOLhyphen"/>men wearing black Velvet Cas<g ref="char:EOLhyphen"/>socks, and golden embroydered badges, waiting with their Hal<g ref="char:EOLhyphen"/>berts on her Majesty, when going into her Sedan, or at Chappel, or at Meals, or at taking Coach, hor<g ref="char:EOLhyphen"/>sed with Carabines, and other weapons fit for a Horsman, when attending on her Majesty in a Coach with six Horses, always co<g ref="char:EOLhyphen"/>vered, within doors, or without.</p>
+                           <p n="21">21. A Stable, where there was a chief <hi>Escuyer</hi> or Querry, Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Wingfield;</hi> fout Coaches, and to each Coach six Horses.</p>
+                           <p n="22">22. Twelve Footmen, twelve Barge-men in Liveries, fout Pages of
+<pb n="67" facs="tcp:207575:39"/> the Back-stairs, several Officers of the Pantry, Ewry, Cellar, Buttry.</p>
+                           <p n="23">23. The Master of the Buck<g ref="char:EOLhyphen"/>hounds, of the Bows, of the Queens Games, and the Gentle<g ref="char:EOLhyphen"/>men of her Musick.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Her Majesties Revenew,<note place="margin">The Qu. ordereth her two Palaces, Greenwich and Som<g ref="char:EOLhyphen"/>merset-houses to be repair<g ref="char:EOLhyphen"/>ed.</note> and Court being thus settled, she agve order for the repair of her Royal Palaces at <hi>Greenwich,</hi> and <hi>Somer<g ref="char:EOLhyphen"/>set-house,</hi> upon the last of which Mr. <hi>Abra Cowly</hi> bestowed an ele<g ref="char:EOLhyphen"/>gant Copy of Verses, he having been many years at her Court in <hi>France,</hi> as Secretary to the Lord <hi>St. Albans,</hi> and transcribed all the Letters that passed between her Majesty, and her Royal (now glo<g ref="char:EOLhyphen"/>rious) husband, for several years, and which were taken at <hi>Nazeby,</hi> and published to both their great advantages, as she always appre<g ref="char:EOLhyphen"/>hended that accident.</p>
+               <p>To this journal of her Majesties lifk, we should add a character of
+<pb n="68" facs="tcp:207575:40"/> her petson, but none can have re<g ref="char:EOLhyphen"/>sentments equal to Princes incli<g ref="char:EOLhyphen"/>nations, and tempers, but they themselves; the thoughts and fancies of private men, not being able to reach to the true appre<g ref="char:EOLhyphen"/>hensions of publick geniuses;</p>
+               <p>Take it rather from the pen of the forementioned Mr. <hi>Cowley</hi> who attended her Majesty above twelve years, bearing a share in her cala<g ref="char:EOLhyphen"/>mities, and serving her in her ne<g ref="char:EOLhyphen"/>gotiations, wherein he undertook many perilous Voyages, to <hi>Hol<g ref="char:EOLhyphen"/>land, Scotland, Flanders, Jersey,</hi> and other places whither the affairs of those times required his presence and his parts, besides that he cy<g ref="char:EOLhyphen"/>phered and decyphered with his own hand most of the great cor<g ref="char:EOLhyphen"/>respondence between the King and Queen, as also between her and other the most potentate Princes and States of <hi>Europe,</hi> which work of indefatigable industry, carried
+<pb n="69" facs="tcp:207575:40"/> on with unsuspected secrecy, as well as integrity, took up the whole of every day, and the most of many nights in the Week for divers years, who notwithstanding his multiplicity of business, found so much spare time as (among o<g ref="char:EOLhyphen"/>ther of his works) to compose an admirable <hi>Ode</hi> on his Majesties Restauration and Return, and thus addresseth himself to the Queen-Mother.</p>
+               <q>
+                  <l>WHere's now the Royal Mother, where</l>
+                  <l>To take her migh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y share</l>
+                  <l>In this so ravishing sight,</l>
+                  <l>And with the part she takes to add to the delight?</l>
+                  <l>Ah! why art thou not here,</l>
+                  <l>Thou always best, but now the happ<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est Queen,</l>
+                  <l>To see ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> joy, and with new j<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y be seen?</l>
+                  <l>God hath a bright example made of thee,</l>
+                  <l>To shew that womankind may be</l>
+                  <l>Above that sex, which her superiour seems,</l>
+                  <l>In wisely managing, the wide extremes</l>
+                  <l>Of great affliction, great felicity.</l>
+                  <l>How well those different virtues thee become,</l>
+                  <l>
+                     <hi>Daughter</hi> of <hi>Triumphs; W<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>st</hi> of <hi>Martyrdom.</hi>
+                  </l>
+                  <l>Thy Princely mind with so much courage bore</l>
+                  <l>Affliction, that it dares return no more;</l>
+                  <l>With so much goodness us'd felicity,</l>
+                  <pb n="70" facs="tcp:207575:41"/>
+                  <l>That it cannot refrain from coming back to thee;</l>
+                  <l>'Tis come, and seen to day, in all its bravery.</l>
+               </q>
+               <p>Or rather take it from the pen of that good King <hi>Charles</hi> the first, who had most reason to know her, and was best able to express her, and in his own excellent por<g ref="char:EOLhyphen"/>traicture, hath thus drawn hers.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="character_study">
+                           <head>King <hi>Charles</hi> the first his Character of the Queen.</head>
+                           <p>
+                              <note place="margin">The Cha<g ref="char:EOLhyphen"/>racter of Henrietta Maria, late Queen of England.</note>ALthough I have much cause to be troubled at my wives departure from me, and out of my Dominions; yet not her absence; so much as the scandal of that necessi<g ref="char:EOLhyphen"/>ty, which drives her away, doth af<g ref="char:EOLhyphen"/>ffict me. That she should be com<g ref="char:EOLhyphen"/>pelled by my own Subjects, and those pretending to be Protestants, to withdraw for her safety; This being the first Example of any Protestant Subjects, that have ta<g ref="char:EOLhyphen"/>ken
+<pb n="71" facs="tcp:207575:41"/> up Arms against their King, a Protestant: For I look upon this now done in <hi>England,</hi> as another Act of the same Tragedie, which was lately begun in <hi>Scotland,</hi> the brands of that fire being ill quencht have kindled the like flames here. I fear such motions (so little a<g ref="char:EOLhyphen"/>dorning the Protestant profession) may occasion a farther alienation of mind, and diuorce of affections in her, from that Religion, which is the only thing wherein we dif<g ref="char:EOLhyphen"/>fer.</p>
+                           <p>I am sorry my Relation to so deserving a Lady, should be any occasion of her danger, and affli<g ref="char:EOLhyphen"/>ction; whose merits would have serued her for a protection among the salvage Indians; while their rudeness and barbarity knows not so perfectly to hate all ver<g ref="char:EOLhyphen"/>tues, as some mens subtilty doth; Among whom I yet think few are so malitious as to hate her
+<pb n="72" facs="tcp:207575:42"/> for her self. The fault is, <hi>That she is my Wife.</hi>
+                           </p>
+                           <p>All justice then as well as affe<g ref="char:EOLhyphen"/>ction commands me to study her security, who is in danger only for my sake; I am content to be tos<g ref="char:EOLhyphen"/>sed, weather-beaten, and ship<g ref="char:EOLhyphen"/>wrackt, so she may be safe in Harbour.</p>
+                           <p>This comfort I shall enjoy by her safety in the midst of my per<g ref="char:EOLhyphen"/>sonal dangers, that I can perish but half, if she be preserved; In whose memory, and hopeful Posterity, I may yet survive the malice of my enemies, although they should be satiated with my blood.</p>
+                           <p>I must leave Her, and them, to the Love and Loyalty of my good Subjects; but common civility is in vain expected from them, that dispute their Loyalty: Nor can it be safe (for any Relation) to a King, to tarry among them who are shaking hands with their Alle<g ref="char:EOLhyphen"/>giance,
+<pb n="73" facs="tcp:207575:42"/> under pretence of taking faster hold of their Religion.</p>
+                           <p>'Tis pity so Noble and peacefu<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>l a Soul should see, much more suffer, the rudeness of those who must make up their want of Ju<g ref="char:EOLhyphen"/>stice, with Inhumanity and Im<g ref="char:EOLhyphen"/>pudence.</p>
+                           <p>Her Sympathy with me in my afflictions, will make her Vertues shine with greater lustre, as Stars in the darkest nights, and assure the envious world, that she loves me, not my fortunes.</p>
+                           <p>Neither of us but can easily for<g ref="char:EOLhyphen"/>give, since we do not much blame the unkindness of the Generality, and Vulgar; for we see God is pleased to try the patience of us both, by the most self puni<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>hing sin, the ingratitude of those, who have eaten of our bread, and be<g ref="char:EOLhyphen"/>ing enriched with our bounty, have scornfully lifted up them<g ref="char:EOLhyphen"/>selves against us; And those of
+<pb n="74" facs="tcp:207575:43"/> our own houshold, are become our enemies, I pray God lay not their sin to their charge; who think to satisfy all obligations to duty, by their Corban of Religion; and can less endure to see, than to sin against their benefactors, as well as their Sovereigns.</p>
+                           <p>But even that policy of my ene<g ref="char:EOLhyphen"/>mies is so far venial, as it was ne<g ref="char:EOLhyphen"/>cessary to their designs, by scan<g ref="char:EOLhyphen"/>dalous Articles, and all irreverent demeanour, to seek to drive her out of my Kingdoms; Lest by the influence of her example, eminent for Love, as a Wife; and Loy<g ref="char:EOLhyphen"/>alty, as a Subject; she should have converted to, or retained in their Love and Loyalty, all those whom they had a purpose to pervert.</p>
+                           <p>The less I may be blest with her company, the more I will re<g ref="char:EOLhyphen"/>tire to God, and my own heart, whence no malice can banish her. My enemies may envy me, but
+<pb n="75" facs="tcp:207575:43"/> they can never deprive me of the enjoyment of her Vertues, while I enjoy my self.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>So much for her Character, re<g ref="char:EOLhyphen"/>turn we now to the Actions of her person, about <hi>Christmas</hi> 1660. it was that she was God-mother to <hi>James</hi> late Duke of <hi>Cambridge,</hi> Son to the Illustrious Prince <hi>James</hi> Duke of <hi>Yorke:</hi>
+                  <note place="margin">The Qu. Mother goes to France.</note> after which his Majesty accompanied his Mother and Sister (who complained very much of the smoak of the City, and a stoppage in her breast, ever since she came thither, and was afraid of the small pox, whereof she had a little spice) to the wa<g ref="char:EOLhyphen"/>ter-side, whence her Majesty went to <hi>France,</hi> to conclude the Match between the Duke of <hi>Orleans</hi> and her Daughter, where she assisted at the Baptism of the <hi>Dauphine</hi> of <hi>France,</hi> who was born on <hi>All Saints</hi> day, and Christened there<g ref="char:EOLhyphen"/>fore
+<pb n="76" facs="tcp:207575:44"/> by the name of <hi>Lewis Tous Saints.</hi>
+               </p>
+               <p>In the time of his Majesties ab<g ref="char:EOLhyphen"/>sence from his Palace at <hi>Whitehal,</hi> there happened a rebellious Tu<g ref="char:EOLhyphen"/>mult in <hi>London,</hi> which in the be<g ref="char:EOLhyphen"/>ginning of <hi>January</hi> 1660. was thus executed.</p>
+               <p>
+                  <note place="margin">Venners Insurrecti<g ref="char:EOLhyphen"/>on.</note>A handful of wild inconsiderate people of mean degree being got together with Arms befitting their design, and commanded by one <hi>Venner</hi> a Wine-Cooper, dated to attempt the City of <hi>London,</hi> and that at two several times; First on <hi>Sunday</hi> the 6. of <hi>January</hi> 1660. after their meeting in <hi>Coleman-street</hi> in the same City, (having then a gracious l<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>berty from the King for their devotion) when arming themselves, they resolutely came to <hi>S. Pauls</hi> in the dusk of the evening, where having mustered, and ordered their small party, they placed Sentinels for the time, one
+<pb n="77" facs="tcp:207575:44"/> of whom killed an innocent person coming by accidentally. Their Declaration was <hi>for King Jesus,</hi> crying as they marched, remem<g ref="char:EOLhyphen"/>ber the Gates, intimating thereby a revenge for those of their own party, that not long before had been executed for high Treason, their quarters being fixed upon the Gates, and other appointed places in the Cities of <hi>London</hi> and <hi>Westminster</hi>
+               </p>
+               <p>From <hi>S. Pauls</hi> they proceeded to <hi>Beech-lane,</hi> where a Head-bo<g ref="char:EOLhyphen"/>rough opposing them, they shot him dead, and forceing their pas<g ref="char:EOLhyphen"/>sage, they hasted to <hi>Canewood,</hi>
+                  <note place="margin">They are routed at Canewood.</note> where they lurked till a party of Horse and Foot, that were sent in quest of them, routed them from thence, taking about thirty pri<g ref="char:EOLhyphen"/>soners.</p>
+               <p>Notwithstanding,<note place="margin">From whence they has<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to London.</note> the others that had escaped from the wood, returned for <hi>London,</hi> and on <hi>Wed<g ref="char:EOLhyphen"/>nesday</hi>
+                  <pb n="78" facs="tcp:207575:45"/> morning <hi>January</hi> the ninth, after the Watches and Guard were removed, they re-inforced their first enterprise; Alaruming the Trained-bands at <hi>Threadnee<g ref="char:EOLhyphen"/>dle-street,</hi> but being pursued to <hi>Bishopsgate-street, Wood-street</hi> and several other places of the City, they were subdued;<note place="margin">And are most of them kil<g ref="char:EOLhyphen"/>led and taken.</note> about twenty and two of them refusing quarter, being killed, and the like number of his Majesties Loyal Subjects. Several of the rebels being taken, were a short time after deserved<g ref="char:EOLhyphen"/>ly executed (having received a legal tryal) in several parts of the City.</p>
+               <p>
+                  <note place="margin">The Coro<g ref="char:EOLhyphen"/>nation of K. Charles the second.</note>Now come we to his Majesties Coronation, where we may see those Regal Ornaments that for se<g ref="char:EOLhyphen"/>veral years had lain obscure; This, was the Crown profaned by the lewd hands of those prostitue Members at <hi>Westminster,</hi> when they seized on the <hi>Regalia,</hi> which
+<pb n="79" facs="tcp:207575:45"/> by <hi>H. Martin</hi> his advice was thought fit to be shared among the Usurpers: This was the Crown, afterwards violated, deprived and Widowed of that Sacred and Royal head of King <hi>Charles</hi> the Martyr; This was the Crown that alone of all the <hi>Insignia</hi> of Majesty, abhorred the Idolatry of <hi>Cromwels</hi> usurpation, and escaped the ravishing and polluted hands of that Tyrant; This was that Crown which the malignity of a dire Pestilence had envied the sight and blessing thereof to the City of <hi>London,</hi> his Majesties Im<g ref="char:EOLhyphen"/>perial Chamber, at his Royal Fathers Inauguration; And this was that Crown, under whose just and antient descent, we have flourished ever since we were a Nation, till our late Anarchy.</p>
+               <p>His Majesty on the twenty se<g ref="char:EOLhyphen"/>cond of <hi>April,</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1661"/> early in the mor<g ref="char:EOLhyphen"/>ning, passed from <hi>Whitehal</hi> to the
+<pb n="80" facs="tcp:207575:46"/>
+                  <hi>Tower</hi> by water; from thence to go through the City to <hi>Westminster</hi> Abby, there to be crowned.</p>
+               <p>Two days were allotted to the Consumation of this great and most celebrated action, the won<g ref="char:EOLhyphen"/>der and delight of all persons, both forreign and domestick, and pity it was that the solid and lasting happiness it portended should not have taken up a Moneth, and gi<g ref="char:EOLhyphen"/>ven it the name <hi>Coronalis.</hi> I should give a Relation of the magnificent Ceremonies performed therein, but it being too large for an inten<g ref="char:EOLhyphen"/>ded small Tract, I choose rather to refer the Reader to what on that subject hath been already made publick.</p>
+               <p>Infinite and innumerable were the acclamations and shouts from all the parts, as his Majesty passed along, to the no less joy than a<g ref="char:EOLhyphen"/>mazement of the Spectators, who beheld those glorious Personages
+<pb n="81" facs="tcp:207575:46"/> that rid before and behind his Ma<g ref="char:EOLhyphen"/>jesty. Indeed it were in vain to attempt to express this Solemnity, it was so far from being unutter<g ref="char:EOLhyphen"/>able, that it is almost unconceive<g ref="char:EOLhyphen"/>able, and much wonder it caused in out-landish Persons, who were acquainted with our late troubles and confusions, which way it was possible for the <hi>English</hi> to appear in so rich and stately a manner.</p>
+               <p>Nor was it the Peers alone, the Gentry, nor the Commonalty that rejoyced in his Majesties happy Restitution, but behold a Queen,<note place="margin">The Qu. of Bohe<g ref="char:EOLhyphen"/>mia re<g ref="char:EOLhyphen"/>turns to England.</note> his Majesties Aunt the Queen of <hi>Bohemia,</hi> after the long absence of fourty and eight years returned to <hi>Whitehall,</hi> where she was formerly married in 1612. to the Prince <hi>Elector Palatine.</hi>
+               </p>
+               <p>The Solemnity of the Corona<g ref="char:EOLhyphen"/>tion being ended, his Majesty was graciously pleased to pay a kind memorial to the dispersed Limbs
+<pb n="82" facs="tcp:207575:47"/> of the Renowned Marquiss of Montross,<note place="margin">The Mar<g ref="char:EOLhyphen"/>quiss of Montross en<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erred in State, May 11.</note> ordering them to be taken down, and buried in State and all fit Solemnities becom<g ref="char:EOLhyphen"/>ing his merits, and the greatness of his Family.</p>
+               <p>And to declare the Justice of Almighty God, it may not be o<g ref="char:EOLhyphen"/>mitted that within a fortnight after this happened the death and deserved execution of the Mar<g ref="char:EOLhyphen"/>quiss of <hi>Argyle,</hi>
+                  <note place="margin">Argyle be<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hded, May 27.</note> who was this He<g ref="char:EOLhyphen"/>roes mortal and spightsul enemy; he cunningly defended himself, and pleaded the Kings Pardon, and the Treaties in 1650. and 1651. But he was condemned for crimes of a later date.</p>
+               <p>In the like manner as the re<g ref="char:EOLhyphen"/>nowned <hi>Montross</hi> had been inter<g ref="char:EOLhyphen"/>red,<note place="margin">Sr. Charles Lucas and Sr. G. Lisle interred with So<g ref="char:EOLhyphen"/>lemnity, June 7.</note> so with proportional Solem<g ref="char:EOLhyphen"/>nity the two most Loyal Com<g ref="char:EOLhyphen"/>manders, Sr. <hi>Charles Lucas</hi> and Sr. <hi>George Lisle,</hi> were re-interred at <hi>Colchester,</hi> the seventh of <hi>June,</hi>
+                  <pb n="83" facs="tcp:207575:47"/> the same day thirteen years that they took up Arms for the King in that Town, both Corps being laid in a Vault set a part for the Sepulchry of Sir <hi>Charles</hi> and his Family.</p>
+               <p>The Queen of <hi>Bohemia,</hi> Aunt to his Majesty, had not continued long in the <hi>English</hi> ayre,<note place="margin">Qu. of Bohemia dies, Feb. 13.</note> till she was snatched from this Life and her Royal Relations, dying <hi>February</hi> the thirteenth, aged sixty six years, having been fourty eight years out of <hi>England,</hi> as was said before, and had survived all the misfor<g ref="char:EOLhyphen"/>tunes of her Family, which almost from the time of her Marriage in 1612. on St. <hi>Valentines</hi> day (on the Eve of which she now died) had fallen very thick, chiefly and solely upon it: she now came to her Rest among her Royal Ance<g ref="char:EOLhyphen"/>stors and Relations, whose Glories and Honours she left more flou<g ref="char:EOLhyphen"/>rishing than ever.</p>
+               <pb n="84" facs="tcp:207575:48"/>
+               <p>
+                  <note place="margin">Qu. Ka<g ref="char:EOLhyphen"/>therine arr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ves, May 13. 1662.</note>On <hi>Wednesday</hi> the fourteenth of <hi>May,</hi> our gracious Queen <hi>Katha<g ref="char:EOLhyphen"/>rine</hi> landed (from her native Country <hi>Portugal</hi>) at <hi>Portsm<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uth,</hi> about four of the clock in the af<g ref="char:EOLhyphen"/>ternoon, where she was received with all possible demonstrations of Honour, the Nobility, and Gentry, and multitudes of People, in most rich apparel, waiting on the Shore for her landing, to which place his Majesty hasted with all possible speed, to consu<g ref="char:EOLhyphen"/>mate the sacred rites of Matri<g ref="char:EOLhyphen"/>mony,<note place="margin">King and Queen married at Ports<g ref="char:EOLhyphen"/>mouth.</note> which were performed in that Town in private, after which some time being spent in comple<g ref="char:EOLhyphen"/>ments and entertainments between those Lords and Ladies attending on the Queen, and several Persons of Honour of our own Nation, their Majesties return to <hi>Hampton-Court,</hi> and from thence on the twenty third of <hi>August</hi> the Regal Bride was in great Triumph
+<pb n="85" facs="tcp:207575:48"/> brought by water to <hi>Whitehal,</hi>
+                  <note place="margin">They ar<g ref="char:EOLhyphen"/>rive at Whitehal.</note> all the Companies in their Barges nobly set our, attending the Lord Mayor at this Solemnity, several Pageants being placed upon the River, and Speeches designed, all which made a very noble sight, illustrated by the rich and glorious setting out of the Kings Barge: about seven at night their Maje<g ref="char:EOLhyphen"/>sties arrive at that Palace, and somewhat before the Queen-Mo<g ref="char:EOLhyphen"/>ther being fetched and attended by the Earl of <hi>S. Albans</hi> arrived at <hi>Greenwich,</hi>
+                  <note place="margin">Qu. Mo<g ref="char:EOLhyphen"/>ther at Greenwich</note> where for a while after she resided, till her other Palace, viz. <hi>Somerset-house,</hi> was made fit for her.</p>
+               <p>In short time after, her Maje<g ref="char:EOLhyphen"/>sty the Queen-Mother took leave of her Palace at <hi>Greenwich,</hi> and setled in the other before-men<g ref="char:EOLhyphen"/>tioned, where she had a large re<g ref="char:EOLhyphen"/>putation for her justice<note place="margin">Her Ju<g ref="char:EOLhyphen"/>stice,</note> to all peo<g ref="char:EOLhyphen"/>ple, paying exactly well for what<g ref="char:EOLhyphen"/>soever
+<pb n="86" facs="tcp:207575:49"/> her occasions required, weekly discharging all accounts, and withal bestowing good sums of money Quarterly to charitable uses,<note place="margin">Charity.</note> particularly to the releasing of poor prisoners, that lay in for small debts, or for fees in the pri<g ref="char:EOLhyphen"/>sons in and about <hi>London,</hi> upon which occasion several Catholick Priests thought it convenient to attend those prisons upon every execution, to reconcile those that died to the Church of <hi>Rome.</hi>
+               </p>
+               <p>
+                  <note place="margin">Piety.</note>She desired to live with the least offence imaginable to any sort of men, and therefore was very much troubled to hear that of Dr. <hi>Du-Moulin</hi> Prebend of <hi>Canterbury</hi> (Mr. <hi>Fowles</hi> of <hi>Lincoln</hi>-Colledg then, as Mr. <hi>Pryn</hi> before should write) that her Confessor was seen on Horse-back brandishing his sword, and to fling his hat by the Scaffold; when the late King was beheaded, and being asked why he of all
+<pb n="87" facs="tcp:207575:49"/> men should do so; replyed, <hi>That that was the most glorious day that ever came, and that, that Act was the greatest thing that ever was done to advance the Catholick Religion, whose greatest enemy was that day cut off.</hi>
+               </p>
+               <p>Neither could it be any pleasure to her to see the controversies re<g ref="char:EOLhyphen"/>vived between those of her Reli<g ref="char:EOLhyphen"/>gion and the Kings (hoping that those who had undergone one common suffering,<note place="margin">And Mo<g ref="char:EOLhyphen"/>dera<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion.</note> might live to<g ref="char:EOLhyphen"/>gether in common love; and though they could not be of one mind, that they might however be of one heart) as they were by Dr. <hi>Pierces</hi> Sermon at <hi>Whitehal, Febr.</hi> the first 1662. (like Bishop <hi>Jew<g ref="char:EOLhyphen"/>els</hi> challenge at <hi>Pauls</hi> Cross) cal<g ref="char:EOLhyphen"/>led the <hi>The primitive Rule of Refor<g ref="char:EOLhyphen"/>mation,</hi> Mr <hi>Cressies</hi> Answer to it, Mr. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>tbies</hi> Defence of it, Mr. <hi>Ser<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Book against Bishop <hi>T<gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. <hi>Tillotson,</hi> and Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet,</hi>
+                  <pb n="88" facs="tcp:207575:50"/> &amp;c. While yet she comported her self so agreeably to the present state of affairs, as to discountenance Sir <hi>Kenelm Digby,</hi> her old servant, when his Majesty in the contentions between the a<g ref="char:EOLhyphen"/>foresaid Knight and the Earl of <hi>Bristol,</hi> conceived he had reason to frown upon him.</p>
+               <p>In the Year 1665. <milestone type="tcpmilestone" unit="unspecified" n="1665"/> after she had mourned for her Sister, <hi>Christina</hi> Dutchess of <hi>Savoy,</hi> and seen the effects of the Negotiation of her half-Brother, the Duke of <hi>Ven<g ref="char:EOLhyphen"/>dosme,</hi> her Majesty (upoa the ap<g ref="char:EOLhyphen"/>proaching of the great Sickness, during which she gave large sums of money, wherewith to relieve the poor) that year went over in<g ref="char:EOLhyphen"/>to <hi>France,</hi>
+                  <note place="margin">The Qu. Mother goes to France.</note> where she did many good offices for this Kingdom, by interposing, to prevent the War with the <hi>French;</hi> and to put an end to it, vvhen it could not be prevented: Saying to the King
+<pb n="89" facs="tcp:207575:50"/> of <hi>France, That she was sorry he was engaging in an enterprize, wherein she could not go along with him in her Prayers.</hi> And saying likewise to the Duke of <hi>Beaufort, That she was afraid of him, now he was going to fight against the</hi> English.</p>
+               <p>The fourth of <hi>September</hi> in the morning, his Majesty received by an express from <hi>France</hi> the unwel<g ref="char:EOLhyphen"/>come news of her Majesties Death,<note place="margin">Her Death, August 1669.</note> who died after a long in<g ref="char:EOLhyphen"/>disposition of Body and decay of Health, on <hi>Tuesday</hi> morning the last day of <hi>August,</hi> in the sixtieth year of her Age, at her house at <hi>Colombe</hi> Castle, four leagues from <hi>Paris;</hi> wherupon his Majesty and his Royal Highness retired imme<g ref="char:EOLhyphen"/>diately from their intended diver<g ref="char:EOLhyphen"/>sion at <hi>New-Forrest</hi> to <hi>Hampton-Court,</hi> where they continued till <hi>Whitehall</hi> was made ready for hem.</p>
+               <p>Upon the news of her Majesties
+<pb n="90" facs="tcp:207575:51"/> Death, the Duke of <hi>Orleans</hi> went from St. <hi>Germains</hi> presently to pay her his last Devotion; and having done that, he repaired without de<g ref="char:EOLhyphen"/>lay to St. <hi>Clo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> to impart the sad tidings to his Wife, and her Daughter.</p>
+               <p>Madam, the Dutchess of <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> who heard it with great sorrow, and was afterwards vi<g ref="char:EOLhyphen"/>sited and condoled by the King and Queen: The King of <hi>France</hi> ha<g ref="char:EOLhyphen"/>ving always had a great value and reverence for her Majesty.</p>
+               <p>The day the Queen died, her Body was laid to be seen upon a bed of State in her Chamber, and the next day it was embalmed, and exposed some considerable time in an Apartment in the Ca<g ref="char:EOLhyphen"/>stle of <hi>Colombe,</hi> with the usual Ceremonies in that case had, and used.</p>
+               <p>The tenth of <hi>September</hi> her Head
+<pb n="91" facs="tcp:207575:51"/> was laid into a Vessel of Silver, whereon was written her Name, and Title, <hi>viz.</hi>
+               </p>
+               <q>
+                  <hi>Henrietta Maria, Angliae, Franciae, Scotiae,</hi> &amp; <hi>Hi<g ref="char:EOLhyphen"/>berniae</hi> Regina, <hi>Galliae</hi> Filia <hi>Henrici</hi> Quarti Vi<g ref="char:EOLhyphen"/>ctoris nata, <hi>Caroli</hi> Primi Martyris Conjux, <hi>Caroli</hi> Secundi Restauratoris Mater, &amp;c.</q>
+               <p>From her Castle of <hi>Colombe</hi> she was carried to the Religious House or Monastery of <hi>Chaliot,</hi> in a mourning Coach, attended by the Lord <hi>Mountague</hi> her Almoner, by the Lady Marshall <hi>du Plessis,</hi> and the Dutchess of <hi>Richmond,</hi> her Ladies of Honour, her Guards following her; the Coaches of the Queen of <hi>France,</hi> their Royal
+<pb n="92" facs="tcp:207575:52"/> Highnessess the Duke and Dutch<g ref="char:EOLhyphen"/>ess of <hi>Orleans,</hi> with the Officers of their respective Housholds go<g ref="char:EOLhyphen"/>ing before.</p>
+               <p>The twelfth of <hi>September</hi> the Royal Corps was, about seven of the Clock at night, carried to St. <hi>Dennis,</hi> accompanied by <hi>Madamo<g ref="char:EOLhyphen"/>sel,</hi> and Madam <hi>de Guise,</hi> with a great Train of <hi>flambeux</hi> carried by an hundred Pages and the Queens Guards at the Porch and entrance into that great Church. Those of the Religion, with Taper lights in their hands, received the Royal Body, at the delivery of which the <hi>Grand</hi> Almoner pronounced an excellent Oration upon the Occasion; in answer to which the like was made by the Prior: both which being ended they car<g ref="char:EOLhyphen"/>ried the Corps in Procession into the Quire, where the Altar was hung with black, agreeable to the Solemnity: Some Devotions
+<pb n="93" facs="tcp:207575:52"/> customary upon such occasions being performed, the Body was set in another Quire, behind that but now mentioned, where it con<g ref="char:EOLhyphen"/>tinueth till preparations may be made befitting the Funeral of so great a Princess.</p>
+               <p>About this time the Count <hi>de</hi> St. <hi>Aignan,</hi>
+                  <note place="margin">An Envoy extraordi<g ref="char:EOLhyphen"/>nary from France to England.</note> Son to the Duke of St. <hi>Aignan</hi> first Gentleman of the King of <hi>France</hi> his Bed-chamber, arrived at <hi>London</hi> in the quality of an <hi>Envoy</hi> Extraordinary from the most Christian King, and from thence went to <hi>Hampton-Court,</hi> where being introduced (by the Earl of <hi>Bath,</hi> Groom of his Maje<g ref="char:EOLhyphen"/>sties stool, and first Gentleman of his Bed-chamber, and Sir <hi>Charles Cotterel</hi> Mr. of the Ceremonies) to his audience; wherein in the behalf of his most Christian Master he condoled with the King and Queen, for the Death of the Queen-Mother. Being afterwards
+<pb n="94" facs="tcp:207575:53"/> nobly entertained agreeably to his Quality and Message, by the Right Honourable the Earl of <hi>Bath.</hi>
+               </p>
+               <p>Instead of a Monument to her Majesty, take this Pedegree of the Royal Family.</p>
+               <list>
+                  <item>King <hi>Henry</hi> the Fourth of <hi>France,</hi>
+                     <note place="margin">The Pe<g ref="char:EOLhyphen"/>digree of the Royal Fami<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y.</note> who acquired the stile of <hi>Henry le Grand,</hi> and Queen <hi>Mary de Medices</hi> her Parents.</item>
+                  <item>King <hi>Lewis</hi> the thirteenth of <hi>France</hi> her Brother.
+<list>
+                        <item>Henry Duke of Orleans her young<g ref="char:EOLhyphen"/>er Brothe<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</item>
+                        <item>Katherine Queen of Spain, and Christi<g ref="char:EOLhyphen"/>enne Dutchess of Sa<g ref="char:EOLhyphen"/>voy, her Sisters.</item>
+                     </list>
+                  </item>
+                  <item>King <hi>Lewis</hi> the Fourteenth of <hi>France,</hi> her Nephew.
+<list>
+                        <item>The Duke of Orleans her Son-in-Law</item>
+                     </list>
+                  </item>
+                  <pb n="95" facs="tcp:207575:53"/>
+                  <item>
+                     <hi>Mary</hi> late Queen of <hi>England,</hi> Wife to King <hi>Charles</hi> the first King of <hi>England.</hi>
+                     <list>
+                        <item>Charles James, who died.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Charles</hi> the Second, King of <hi>England,</hi> her Son.</item>
+                  <item>
+                     <hi>James</hi> Duke of <hi>York,</hi> her Son.
+<list>
+                        <item>His Son
+<list>
+                              <item>Edgar Duke of Cam<g ref="char:EOLhyphen"/>bridg, born Sept. 15. 1667.</item>
+                           </list>
+                        </item>
+                        <item>His Daughters
+<list>
+                              <item>The Lady Mary, born April 30. 1662.</item>
+                              <item>The Lady Anne, born Febr. 1664.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Mary</hi> Princess of <hi>Orange,</hi> dead.
+<list>
+                        <item>Her Son, William of Nassau, Prince of Orange, born nine days after the decease of his f<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ther, Nov. 14▪ 1650.</item>
+                     </list>
+                  </item>
+                  <pb n="96" facs="tcp:207575:54"/>
+                  <item>The Princess <hi>Elizabeth,</hi> dead.</item>
+                  <item>The Princess <hi>Anna,</hi> who died young.</item>
+                  <item>The Princess <hi>Sophia,</hi> died young.</item>
+                  <item>
+                     <hi>Henry</hi> Duke of <hi>Glocester,</hi> dead.</item>
+                  <item>
+                     <hi>Henrietta</hi> Dutchess of <hi>Orleans.</hi>
+                     <list>
+                        <item>Who hath two Chil<g ref="char:EOLhyphen"/>dren.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Filiabitur Nomen Ejus.</hi>
+                  </item>
+               </list>
+               <pb n="97" facs="tcp:207575:54"/>
+               <p>Besides the Representations of her Majesty, we expect her Cha<g ref="char:EOLhyphen"/>racter drawn by an exact Pencil, and her Epitaph from both the Universities, who are preparing Poems suitable to her Funeral, particularly <hi>Oxford,</hi> sometime her Majesties Court in the late Wars.</p>
+               <p>It is remarkeable that her Ma<g ref="char:EOLhyphen"/>jesty died on the <hi>Tuesday,</hi>
+                  <note place="margin">The death o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sir Ed. Nicholas.</note> and Sir <hi>Edward Nicholas</hi> on the <hi>Wednesday,</hi> the same week. That Honour<g ref="char:EOLhyphen"/>able person having been Secretary of State to King <hi>Charles</hi> the first, and King <hi>Charles</hi> the second; re<g ref="char:EOLhyphen"/>lating formerly as Secretary to the late Duke of <hi>Buckingham,</hi> being of her Majesties particular opinion in the late Wars in all things, save (as the King said) in matters of Religion.</p>
+               <p>For it was her Majesties opi<g ref="char:EOLhyphen"/>nion and his, that the Parliament should not be exasperated in any thing wherein they could not be
+<pb n="98" facs="tcp:207575:55"/> over<g ref="char:EOLhyphen"/>come (it having been the impru<g ref="char:EOLhyphen"/>dence of late time, in great ma<g ref="char:EOLhyphen"/>nagers of Affairs, that the people were provoked, when they could not be suppressed) and that there should have been no attempt upon the five Members, where there was not evidence enough to con<g ref="char:EOLhyphen"/>vict them, and power enough to take them.</p>
+               <p>After the War began, both ad<g ref="char:EOLhyphen"/>vised the adjourning of the Par<g ref="char:EOLhyphen"/>liament from <hi>London</hi> to some o<g ref="char:EOLhyphen"/>ther place, as <hi>Yorke</hi> or <hi>Oxford,</hi> especially <hi>Yorke,</hi> where Sir <hi>Edward</hi> wished the Parliament had been called at first, by reason of the Loyalty of the Northern parts, and the ill affection and distemper of the Southern, which time had re<g ref="char:EOLhyphen"/>duced to a temper; and distance had cooled to an accommodation. And in case all did not come ac<g ref="char:EOLhyphen"/>cording to the Kings command to them, to wait upon him, yet if the greater Number did, and the rest
+<pb n="99" facs="tcp:207575:55"/> had continued in Arms against the King, that they at <hi>Westminster</hi> should be never owned by the King as a Parliament, and that the King should never hearken to an accommodation, but upon condi<g ref="char:EOLhyphen"/>tion, that this long Parliament was dissolved.</p>
+               <p>And the Queen writes upon this point thus, I understand to day from <hi>London,</hi> that they will have no Cessation, and that they treat at the beginning of the two first Articles, which is of the Forts, Ships and Ammunition, and after<g ref="char:EOLhyphen"/>wards of the disbanding of the Army. Certainly I wish a Peace more than any, and that with greater reason. But I would the disbanding of the perpetual Par<g ref="char:EOLhyphen"/>liament first, and certainly the rest will be easie afterwards. I do not say this of mine own head alone: for generally both those who are for you, and against you in this Country, wish an end of it. And
+<pb n="100" facs="tcp:207575:56"/> I am certain, that if you do de<g ref="char:EOLhyphen"/>mand it at the first. In case it be not granted, <hi>Hull</hi> is ours and all <hi>Yorkeshire,</hi> which is a thing to be considered. And for my parti<g ref="char:EOLhyphen"/>cular, if you make a Peace and disband your Army, before there is an end of this perpetual Parli<g ref="char:EOLhyphen"/>ament, I am absolutely resolved to go into <hi>France,</hi> not being wil<g ref="char:EOLhyphen"/>ling to fall again into the hands of those people, being well assured, that if the power remain with them, that it will not be well for me in <hi>England.</hi> For the Honour of God, trust not your self in the hands of those people. And if e<g ref="char:EOLhyphen"/>ver you go to <hi>London</hi> before the Parliament be ended, or without a good Army, you are lost. I un<g ref="char:EOLhyphen"/>derstand that the Propositions for the Peace must begin by disband<g ref="char:EOLhyphen"/>ing the Army, if you consent to this you shall be lost: they having the whole power of the Millitia,
+<pb n="101" facs="tcp:207575:56"/> have done and will do what they please.</p>
+               <p>This was the reason of the late Kings great confidence in Sir <hi>Ed<g ref="char:EOLhyphen"/>ward Nicholas,</hi> permitting all his Declarations to be penned by him, and trusting him with his choicest Memorials, as these about the Treaty at <hi>Uxbridge.</hi>
+               </p>
+               <p>First, for Religion and Church Government, I will not go one jot farther than what is offered by you already.</p>
+               <p n="2">2. And so for the Militia more than what ye have allowed by me, but even in that you must observe, that I must have free Nomination of the full half: as if the total number, <hi>Scots</hi> and all, be thirty, I will name fifteen; yet if they (I mean the <hi>English</hi> Rebels) will be so base as to admit of ten <hi>Scots,</hi> to twenty <hi>English,</hi> I am contented to name five <hi>Scots</hi> and ten <hi>English,</hi> and so proportionably to any num<g ref="char:EOLhyphen"/>ber
+<pb n="102" facs="tcp:207575:57"/> that shall be agreed upon.</p>
+               <p n="3">3. As for gaining of particular persons besides security, I give you power to promise them Re<g ref="char:EOLhyphen"/>wards for performed services, not sparing to engage for places, so they be not of great trust, or be taken away from honest men al<g ref="char:EOLhyphen"/>ready in possession, but of as much profit as you will. With this last you are only to acquaint <hi>Richmond Southampton, Culpeper,</hi> and <hi>Hide.</hi>
+               </p>
+               <p>This was that Sir <hi>Edward Ni<g ref="char:EOLhyphen"/>cholas,</hi> to whom his Majesty con<g ref="char:EOLhyphen"/>cerning the intercepting and pu<g ref="char:EOLhyphen"/>blishing his Letters, wrote in manner following, by which the Reader hath a farther Testimony of the great trust and confidence their Majesties reposed in him.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Nicholas,</salute>
+                     </opener>
+                     <p>HAving commanded your fel<g ref="char:EOLhyphen"/>low Secretary to give you a full account, as well of our pro<g ref="char:EOLhyphen"/>ceedings
+<pb n="103" facs="tcp:207575:57"/> here as resolutions; I will neither trouble you nor my self with repetitions: only for my self, I must desire you to let every one know, that no distresses of fortune whatsoever shall make me, by the grace of God, recede in any thing from those grounds I laid down to you, who were my Commissioners at <hi>Uxbridge,</hi> and which (I thank them) rhe Rebels have published in print. And though I could have wished their pains had been spared, yet I will neither deny that those things are mine, which they have set out in my name (only some words here and there are mistaken, and some Comma's misplaced, but not much material) nor as a good Protestant or honest man blush for any of those papers. Indeed as a discreet man, I will not justifie my self; and yet I would fain know him, who would be willing, that
+<pb n="104" facs="tcp:207575:58"/> the freedom of all his private Let<g ref="char:EOLhyphen"/>ters were publickly seen, as mine now have been. However, so that one clause be rightly understood, I care not much though the other take their fortune: it is concerning the mongrel Parliament. The truth is, that <hi>Sussex</hi> his factiousness at that time, put me out of patience, which made me freely vent my displeasure against those of his party to my Wife; and the inten<g ref="char:EOLhyphen"/>tion of that phrase was, that his faction did what they could to make it come to that, by their rai<g ref="char:EOLhyphen"/>sing and fomenting base Proposi<g ref="char:EOLhyphen"/>tions. This is clearly evidenced by my following excuse to her for suffering those people to trouble her, the reason being to eschew those greater inconveniences which they had, and were more likely to cause here than there. I am now going to Supper, so I rest</p>
+                     <closer>
+                        <signed>Your most assured Friend, <hi>Charles</hi> R.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="epicedium">
+               <pb n="105" facs="tcp:207575:58"/>
+               <head>An <hi>Epicaedium</hi> On the death of Her most Serene Majesty <hi>Henrietta Maria</hi> de <hi>Bourbon</hi> Queen-Mother of <hi>England</hi> And Daughter to the late most puissant King <hi>Henry</hi> le <hi>Grand</hi> King of <hi>France</hi> and <hi>Navar.</hi>
+               </head>
+               <l>Hence! and make <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oom, all ye that weeping com</l>
+               <l>To read an <hi>Elogy,</hi> or see a <hi>Tomb.</hi>
+               </l>
+               <l>But oh! what <hi>Poets</hi> genius can devise</l>
+               <l>For such a <hi>Tomb</hi> a decent <hi>Sacrifice.</hi>
+               </l>
+               <l>Vain man! to mention what can ne're be writ</l>
+               <l>Since 'tis above the reach of <hi>Art</hi> or <hi>Wit.</hi>
+               </l>
+            </div>
+            <div type="elegy">
+               <head>The <hi>Elogie.</hi>
+               </head>
+               <l>HEre lies the <hi>British</hi> Islands <hi>Nursing Mother</hi>
+               </l>
+               <l>A <hi>Queen,</hi> was never parallel'd by other.</l>
+               <pb n="106" facs="tcp:207575:59"/>
+               <l>Happy that choice <hi>Regalio,</hi> keeps in trust</l>
+               <l>The <hi>Royal Reliques,</hi> and selected Dust</l>
+               <l>Of Her, whom <hi>Flatt'ry</hi> knows not how to paint,</l>
+               <l>Great <hi>Britains Queen,</hi> &amp; <hi>Heavens</hi> glorious <hi>Saint</hi>
+               </l>
+               <l>To her those names of <hi>Queen</hi> &amp; <hi>Saint</hi> are given</l>
+               <l>As two most sacred names of <hi>Earth</hi> &amp; <hi>Heaven.</hi>
+               </l>
+               <l>See! How the pious <hi>Marble</hi> seems to weep,</l>
+               <l>As being conscious whatsoere doth keep</l>
+               <l>The <hi>Sacred Ashes</hi> of a <hi>Queen</hi> so good,</l>
+               <l>Should be of greater worth than stone or wood.</l>
+               <l>And boasting seems to say, her <hi>Name</hi> will be</l>
+               <l>An everlasting <hi>Monument</hi> to me.</l>
+               <l>See! See! the day by <hi>Sable clouds</hi> orespread,</l>
+               <l>Portending <hi>Englands</hi> Royal <hi>Queen</hi> is dead.</l>
+               <l>See! How it shortens, striving to retire,</l>
+               <l>The <hi>Queen</hi> and <hi>Autumn</hi> seeming to expire,</l>
+               <l>Bids <hi>Night</hi> and <hi>Nature</hi> hang the <hi>Universe</hi>
+               </l>
+               <l>With black, due <hi>Obsequies</hi> for such a <hi>Hearse.</hi>
+               </l>
+               <l>She ne're was <hi>cruel</hi> to exhaust a <hi>Tear,</hi>
+               </l>
+               <pb n="107" facs="tcp:207575:59"/>
+               <l>All weeping was reserv'd to spend it here.</l>
+               <l>Those flattering <hi>Arts</hi> which <hi>Poets</hi> use, to save</l>
+               <l>Decaying reputations in the <hi>grave,</hi>
+               </l>
+               <l>Are here but vain: for no <hi>Hyperbole</hi>
+               </l>
+               <l>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n tell the <hi>World</hi> how great her <hi>Mer<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> be.</l>
+               <l>And <hi>Chronicles</hi> themselves can say no more</l>
+               <l>Than what her <hi>Fame</hi> hath spread about before.</l>
+               <l>In whatsoever <hi>Land</hi> she chanc'd to come</l>
+               <l>She read th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n</hi> and <hi>Manners,</hi> bringing home</l>
+               <l>Their <hi>Wisdom, Vertue,</hi> and their <hi>Piety,</hi>
+               </l>
+               <l>As if she went to <hi>conquer,</hi> not to <hi>see.</hi>
+               </l>
+               <l>She knew all <hi>Nations</hi> so, that one wou'd <hi>swear</hi>
+               </l>
+               <l>She did not <hi>Live,</hi> but was <hi>Born</hi> every where.</l>
+               <l>And when she through this restless <hi>Globe</hi> had past</l>
+               <l>She dy'd, lest she should <hi>idle</hi> grow at last.</l>
+               <l>Great <hi>Queen</hi> of <hi>cares</hi> and <hi>crosses. Tosst</hi> &amp; <hi>hurld</hi>
+               </l>
+               <l>Through all the changes of a giddy <hi>World.</hi>
+               </l>
+               <l>That <hi>World,</hi> that's now concern'd t'have understood</l>
+               <l>
+                  <hi>Death</hi> durst approach so near to <hi>Royal blood.</hi>
+               </l>
+               <pb n="108" facs="tcp:207575:60"/>
+               <l>A <hi>Queen,</hi> to <hi>Kings</hi> and <hi>Emperours</hi> ally'd,</l>
+               <l>Great <hi>Henry</hi>'s Daughter, and blest <hi>Charles</hi> his <hi>Bride.</hi>
+               </l>
+               <l>Yet did the envious <hi>Thistle</hi> interpose</l>
+               <l>'Twixt her <hi>F<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ench Lillies,</hi> and our <hi>English Rose.</hi>
+               </l>
+               <l>Blest <hi>Queen,</hi> thy mind maintain'd so calm a state</l>
+               <l>As crown'd thee <hi>Empress</hi> of thy self and fate.</l>
+               <l>
+                  <hi>Angels</hi> now sing to thee, their <hi>Ayres</hi> divine</l>
+               <l>And joy in an <hi>applause</hi> so great as thine.</l>
+               <l>Who claim'd the <hi>Garland</hi> by thy matchless life,</l>
+               <l>Of a dear <hi>Mother,</hi> and indulgent <hi>W<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe.</hi>
+               </l>
+               <l>And having gain'd it, meekly now lay'st down</l>
+               <l>An <hi>Earthly Diadem,</hi> for an <hi>Heavenly Crown.</hi>
+               </l>
+               <l>Thus you, Dear <hi>Queen,</hi> a grateful subject have</l>
+               <l>Who what he ow'd your <hi>life,</hi> hath paid your <hi>grave.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:207575:60"/>
+            <head>Books printed for <hi>Samuel Speed</hi> Book-seller, between the two <hi>Temple Gates</hi> in <hi>Fleet-street.</hi>
+            </head>
+            <p>
+               <hi>PHaramond,</hi> the famed Romance in <hi>Fol.</hi> written by the Author of those other two eminent Romances, <hi>Cassandra</hi> and <hi>Cleopatra.</hi>
+            </p>
+            <p>
+               <hi>Palmerin</hi> of <hi>England</hi> in three parts, in <hi>Quarto.</hi>
+            </p>
+            <p>The Destruction of <hi>Troy</hi> in three parts, in <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Quintus Curtius,</hi> his Life of <hi>Alexander</hi> the Great in <hi>English,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Montelion,</hi> Knight of the Oracle, in <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Primaleon</hi> of <hi>Greece,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>The Jewel-house of Art and Nature, by Sir <hi>Hugh Plat,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>The Womans Lawyer, by Sir <hi>John Dodridge,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>Divine Law, or the Patrons Purchaser, by <hi>Alexander Huckston,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>The Compleat Parson, by Sir <hi>John Dod<g ref="char:EOLhyphen"/>ridge,</hi> in <hi>Qu.</hi>
+            </p>
+            <pb facs="tcp:207575:61"/>
+            <p>Star-Chamber Cases, in <hi>Quarto.</hi>
+            </p>
+            <p>Actions of the Case for Deeds, by <hi>William Shepheard</hi> Esquire, in <hi>Folio.</hi>
+            </p>
+            <p>The Life of <hi>Henry</hi> the Great in <hi>English</hi> written by the Bishop of <hi>Rhodez,</hi> in <hi>Octav.</hi>
+            </p>
+            <p>The Villain, a Tragedy, by <hi>Tho. Porter</hi> Esquire in <hi>Quarto.</hi>
+            </p>
+            <p>Observations on the Statesmen and Fa<g ref="char:EOLhyphen"/>vourites of <hi>England</hi> since the Reformation, their Rise, and Growths, Prudence, and Policies, Miscarriages, and Falls, during the Reigns of <hi>Henry</hi> the eighth, King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the sixth, Queen <hi>Mary,</hi> Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> King <hi>James,</hi> and King <hi>Charles</hi> the first, in <hi>Octav.</hi> by <hi>D. Lloyd,</hi> A. M.</p>
+            <p>The Precedency of Kings, in <hi>Folio.</hi> by <hi>James Howel</hi> Esquire.</p>
+            <p>The Description of <hi>Tangier,</hi> with an account of the Life of <hi>Gayland,</hi> Usurper of the Kingdom of <hi>Fez,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>The Golden Coast, or a Description of <hi>Guiney</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>An Abridgment of the three Volumns of Sir <hi>George Crookes</hi> Reports in <hi>Octavo.</hi>
+            </p>
+            <p>An Abridgment of the Reports of
+<pb facs="tcp:207575:61"/> Sir <hi>Francis More,</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>The Compleat Lawyer, by <hi>William Noy</hi> of <hi>Lincolns</hi> Inne, in <hi>Octavo.</hi>
+            </p>
+            <p>The Tenants Law, a Treatise of great use for Tenants and Farmers of all kinds, and all other persons whatsoeuer. Where<g ref="char:EOLhyphen"/>in the several Natures, Differences, and kinds of Tenures and Tenants are dis<g ref="char:EOLhyphen"/>cussed, and several Cases in Law touch<g ref="char:EOLhyphen"/>ing Leases, Rents, Distresses, Replevins, and other accidents between Landlord and Tenants; and Tenant and Tenant be<g ref="char:EOLhyphen"/>tween themselves and others, especially such who have suffered by the late con<g ref="char:EOLhyphen"/>flagration in the City of <hi>London,</hi> by <hi>R. T.</hi> Gent. in <hi>Twelves.</hi>
+            </p>
+            <p>Memoires of the Lives, Actions, Suffe<g ref="char:EOLhyphen"/>rings, and Deaths of those Noble, Reve<g ref="char:EOLhyphen"/>rend, and excellent Personages that suf<g ref="char:EOLhyphen"/>fered by Death, Sequestration, Decima<g ref="char:EOLhyphen"/>tion or otherwise, for the Protestant Re<g ref="char:EOLhyphen"/>ligion, and the great Principle thereof, Allegiance to their Sovereign, in our late intestine Wars, in <hi>Folio;</hi> by <hi>D. Lloyd.</hi> A. M.</p>
+            <pb facs="tcp:207575:62"/>
+            <p>Arithmetical Recreations, by <hi>W. Ley<g ref="char:EOLhyphen"/>bourne,</hi> in <hi>Twelves.</hi>
+            </p>
+            <p>The Reports of Sir <hi>Henry Hobart,</hi> in <hi>F.</hi>
+            </p>
+            <p>The Compleat Copy-holder by the Lord <hi>Cooke,</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Machiavels</hi> Discourses, and Prince, in <hi>Twelves.</hi>
+            </p>
+            <p>The <hi>Roman</hi> History of <hi>Lucius Florus</hi> in <hi>English,</hi> in <hi>Octavo.</hi>
+            </p>
+            <p>The City and Country Purchaser, and Builder; with directions for purchasing, building, and improving of Lands and Houses, in any part of <hi>England,</hi> in <hi>Octavo,</hi> by <hi>Stephen Primate</hi> Gent.</p>
+            <p>A brief Chronicle of the late intestine War, in the three Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> from the years of our Lord 1637. to the year 1663. in <hi>Fol.</hi> by <hi>James Heath</hi> Gent.</p>
+            <p>The new Academy of Complements erected for Ladies and Gentlemen, con<g ref="char:EOLhyphen"/>taining variety of Complements, and Letters fitted to the occasions of all per<g ref="char:EOLhyphen"/>sons of both Sexes, with an exact Col<g ref="char:EOLhyphen"/>lection of the newest and choicest Songs <hi>a
+<pb facs="tcp:207575:62"/> la mode,</hi> both Amorous and Jovial, in <hi>Twelves,</hi>
+            </p>
+            <p>
+               <hi>Systema Agriculturae,</hi> being the whole Mystery of Husbandry, made known by <hi>J. W.</hi> Gent. in <hi>Folio.</hi>
+            </p>
+            <p>The Kings Primmer, containing easie and pleasant directions for the reading of <hi>English,</hi> in <hi>Thirty two.</hi>
+            </p>
+            <p>The Kings Psalter, stored with obser<g ref="char:EOLhyphen"/>vable varieties, fit either for the Schoole, or for the Closet, all which are profitable, plain and pleasant, in <hi>Octavo.</hi>
+            </p>
+            <p>The Life and Death of that matchless Mirrour of Heroick Vertues, <hi>Henrietta Maria</hi> de <hi>Bourbon,</hi> late Queen to King <hi>Charles</hi> the first, and Mother to the most Magnificent Prince, King <hi>Charles</hi> the se<g ref="char:EOLhyphen"/>cond, in <hi>Twelves.</hi>
+            </p>
+         </div>
+         <div type="statement_of_good_intent">
+            <pb facs="tcp:207575:63"/>
+            <head>To all Gentlemen, Booksellers, or others.</head>
+            <p>WHereas <hi>Samuel Speed</hi> Bookseller, hath lately disposed himself to a whole Sale trade for Books, not making <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y appearance of that imployment, as <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ormerly he did. These are to certifie, That those persons that please to apply themselves to him for Books, shall be as well used as by any person whatsoever: and whosoever hath any Study, or Li<g ref="char:EOLhyphen"/>brary of Books, or Copies, either in Ma<g ref="char:EOLhyphen"/>nuscript or such as have been already Printed to dispose of, shall receive from him the full value thereof, to the said Parties ample satisfaction.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207575:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
